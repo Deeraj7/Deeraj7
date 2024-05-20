@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deeraj7
 - 👀 I’m a Graduate student doing my masters in Data Engineering 
 - 🌱 I’m currently learning AWS for Data engineers 
-- 📫 deerajthakkilapati@gmail.com
+- 📫 thakkilapatideeraj@gmail.com
 
 
 <!---
