@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deeraj7
-- 👀 I’m interested in Data Sceince 
-- 🌱 I’m currently learning Data analysis with R  
+- 👀 I’m a Graduate student doing my masters in Data Engineering 
+- 🌱 I’m currently learning AWS for Data engineers 
 - 📫 deerajthakkilapati@gmail.com
 
 
