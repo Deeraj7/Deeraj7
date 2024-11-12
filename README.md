@@ -1,53 +1,17 @@
-name: Update README
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+# 👋 Hi, I’m Deeraj Thakkilapati
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+![Profile Views](https://komarev.com/ghpvc/?username=Deeraj7&color=blue)  
+I’m a data engineering enthusiast who loves turning ideas into real-world solutions. Whether it’s building data pipelines or finding innovative ways to make data more accessible, I’m always ready to dive in and create impact.
 
-      - name: Update README with GitHub Repositories
-        uses: actions/github-script@v4
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const repos = await github.repos.listForUser({
-              username: 'Deeraj7', // Change to your GitHub username
-              sort: 'updated',
-              per_page: 5
-            });
-            const repoList = repos.data.map(repo => `- [${repo.name}](${repo.html_url}): ${repo.description}`).join('\n');
-            const content = `
-            # 👋 Hi, I’m Deeraj Thakkilapati
+## 🔥 Latest Projects
+<!-- This section will be automatically updated with the latest repositories -->
 
-            ![Profile Views](https://komarev.com/ghpvc/?username=Deeraj7&color=blue)  
-            I’m a data engineering enthusiast who loves turning ideas into real-world solutions. Whether it’s building data pipelines or finding innovative ways to make data more accessible, I’m always ready to dive in and create impact.
+## 📫 Connect with Me!
 
-            ## 🔥 Latest Projects
-            ${repoList}
+[![Email Badge](https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thakkilapatideeraj@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deerajthakkilapati/)
 
-            ## 📫 Connect with Me!
+---
 
-            [![Email Badge](https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thakkilapatideeraj@gmail.com)
-            [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deerajthakkilapati/)
-
-            Let’s connect and explore how data can drive meaningful change!
-            `;
-
-            const base64Content = Buffer.from(content).toString('base64');
-            await github.repos.createOrUpdateFileContents({
-              owner: 'Deeraj7',
-              repo: 'Deeraj7',
-              path: 'README.md',
-              message: 'Update README with latest projects',
-              content: base64Content,
-              committer: {
-                name: 'GitHub Action',
-                email: 'action@github.com'
-              }
-            });
+Let’s connect and explore how data can drive meaningful change!
