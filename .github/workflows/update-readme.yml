@@ -12,21 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Update README with GitHub Repositories
-        uses: actions/github-script@v5
+        uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { data: file } = await github.repos.getContent({
+            const file = await github.rest.repos.getContent({
               owner: 'Deeraj7',
               repo: 'Deeraj7',
               path: 'README.md'
             });
-            const sha = file.sha;  // Capture the SHA of the existing README file
+            const sha = file.data.sha;  // Capture the SHA of the existing README file
 
-            const repos = await github.repos.listForUser({
+            const repos = await github.rest.repos.listForUser({
               username: 'Deeraj7',
               sort: 'updated',
               per_page: 5
@@ -50,7 +50,7 @@ jobs:
             `;
 
             const base64Content = Buffer.from(content).toString('base64');
-            await github.repos.createOrUpdateFileContents({
+            await github.rest.repos.createOrUpdateFileContents({
               owner: 'Deeraj7',
               repo: 'Deeraj7',
               path: 'README.md',
