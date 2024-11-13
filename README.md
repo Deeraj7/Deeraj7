@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%234DB6AC&size=28&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Deeraj+Thakkilapati!;Data+Engineer+%7C+Thinker;Data+Engineer+%7C+Learner;Passionate+About+Data+and+Innovation)](https://github.com/Deeraj7)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%23F75C7E&size=28&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Deeraj+Thakkilapati!;Data+Engineer;Passionate+About+Data+and+Innovation)](https://github.com/Deeraj7)
+
 
 ---
 

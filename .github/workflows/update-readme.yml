@@ -50,10 +50,10 @@ jobs:
           echo "## 📫 Connect with Me!" >> README.md
           echo "<p align=\"center\">" >> README.md
           echo "   <a href=\"mailto:thakkilapatideeraj@gmail.com\">" >> README.md
-          echo "      <img src=\"https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\" style=\"display: inline-block; animation: bounce 1.5s infinite;\">" >> README.md
+          echo "      <img src=\"https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\">" >> README.md
           echo "   </a>" >> README.md
           echo "   <a href=\"https://www.linkedin.com/in/deerajthakkilapati/\">" >> README.md
-          echo "      <img src=\"https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\" style=\"display: inline-block; animation: bounce 1.5s infinite;\">" >> README.md
+          echo "      <img src=\"https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\">" >> README.md
           echo "   </a>" >> README.md
           echo "</p>" >> README.md
           echo "" >> README.md
@@ -61,7 +61,7 @@ jobs:
           echo "" >> README.md
           echo "🌱 **Animated Inspiration:** 🌱" >> README.md
           echo "<p align=\"center\">" >> README.md
-          echo "   <img src=\"https://img.shields.io/badge/-Stay%20Positive-brightgreen?style=for-the-badge&labelColor=black\" alt=\"Stay Positive\" style=\"animation: pulse 1.5s infinite;\">" >> README.md
+          echo "   <img src=\"https://img.shields.io/badge/-Stay%20Positive-brightgreen?style=for-the-badge&labelColor=black\" alt=\"Stay Positive\">" >> README.md
           echo "</p>" >> README.md
 
       - name: Commit changes
@@ -88,3 +88,4 @@ jobs:
                 email: 'action@github.com'
               }
             });
+
