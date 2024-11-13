@@ -5,7 +5,7 @@
 I’m a data engineering enthusiast who loves turning ideas into real-world solutions. Whether it’s building data pipelines or finding innovative ways to make data more accessible, I’m always ready to dive in and create impact.
 
 ## ✨ Daily Inspiration
-> "Let each man exercise the art he knows." - **Dogen**
+> "The key to immortality is first living a life worth remembering. " - **Mae West**
 
 ## 📫 Connect with Me!
 [![Email Badge](https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thakkilapatideeraj@gmail.com)
