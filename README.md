@@ -8,11 +8,11 @@
 
 </div>
 
-<p align="center">
+<p align="left">
    <img src="https://komarev.com/ghpvc/?username=Deeraj7&color=blue" alt="Profile Views">
 </p>
 
-<p align="center">I’m a passionate data engineering enthusiast who loves transforming ideas into impactful solutions. I specialize in building efficient data pipelines, discovering insights through data, and developing systems that make information accessible and powerful. Always a <strong>Thinker</strong> and <strong>Learner</strong>, I thrive on solving problems and creating meaningful change through data.</p>
+<p align="center">I’m a passionate data engineering enthusiast who loves transforming ideas into impactful solutions. I specialize in building efficient data pipelines, discovering insights through data, and developing systems that make information accessible and powerful. Always a <strong>Thinker</strong> and <strong>Learner</strong>, I thrive on solving problems and creating meaningful change through Data.</p>
 
 ---
 
