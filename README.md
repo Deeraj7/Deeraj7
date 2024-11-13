@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
    <img src="https://komarev.com/ghpvc/?username=Deeraj7&color=blue" alt="Profile Views"> 
 </p>
 

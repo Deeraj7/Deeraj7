@@ -22,22 +22,46 @@ jobs:
           AUTHOR=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].a')
 
           # Write to README.md
-          echo "# 👋 Hi, I’m Deeraj Thakkilapati" > README.md
+          echo "<h1 align=\"center\">Welcome to My GitHub Profile! 👋</h1>" > README.md
           echo "" >> README.md
-          echo "![Profile Views](https://komarev.com/ghpvc/?username=Deeraj7&color=blue)" >> README.md
+          echo "<div align=\"center\">" >> README.md
           echo "" >> README.md
-          echo "I’m a data engineering enthusiast who loves turning ideas into real-world solutions. Whether it’s building data pipelines or finding innovative ways to make data more accessible, I’m always ready to dive in and create impact." >> README.md
+          echo "[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%234DB6AC&size=28&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Deeraj+Thakkilapati!;Data+Engineer+%7C+Thinker;Data+Engineer+%7C+Learner;Passionate+About+Data+and+Innovation)](https://github.com/Deeraj7)" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "</div>" >> README.md
+          echo "" >> README.md
+          echo "<p align=\"center\">" >> README.md
+          echo "   <img src=\"https://komarev.com/ghpvc/?username=Deeraj7&color=blue\" alt=\"Profile Views\">" >> README.md
+          echo "</p>" >> README.md
+          echo "" >> README.md
+          echo "<p align=\"center\">I’m a passionate data engineering enthusiast who loves transforming ideas into impactful solutions. I specialize in building efficient data pipelines, discovering insights through data, and developing systems that make information accessible and powerful. Always a <strong>Thinker</strong> and <strong>Learner</strong>, I thrive on solving problems and creating meaningful change through data.</p>" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
           echo "" >> README.md
           echo "## ✨ Daily Inspiration" >> README.md
-          echo "> \"$QUOTE\" - **$AUTHOR**" >> README.md
+          echo "<marquee behavior=\"scroll\" direction=\"left\" scrollamount=\"5\">" >> README.md
+          echo "   \"$QUOTE\" - **$AUTHOR**" >> README.md
+          echo "</marquee>" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
           echo "" >> README.md
           echo "## 📫 Connect with Me!" >> README.md
-          echo "[![Email Badge](https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thakkilapatideeraj@gmail.com)" >> README.md
-          echo "[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deerajthakkilapati/)" >> README.md
+          echo "<p align=\"center\">" >> README.md
+          echo "   <a href=\"mailto:thakkilapatideeraj@gmail.com\">" >> README.md
+          echo "      <img src=\"https://img.shields.io/badge/Email-thakkilapatideeraj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\" style=\"display: inline-block; animation: bounce 1.5s infinite;\">" >> README.md
+          echo "   </a>" >> README.md
+          echo "   <a href=\"https://www.linkedin.com/in/deerajthakkilapati/\">" >> README.md
+          echo "      <img src=\"https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\" style=\"display: inline-block; animation: bounce 1.5s infinite;\">" >> README.md
+          echo "   </a>" >> README.md
+          echo "</p>" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
           echo "" >> README.md
           echo "🌱 **Animated Inspiration:** 🌱" >> README.md
           echo "<p align=\"center\">" >> README.md
-          echo "<img src=\"https://img.shields.io/badge/-Stay%20Positive-brightgreen?style=for-the-badge&labelColor=black\" alt=\"Stay Positive\" style=\"animation: pulse 1s infinite;\">" >> README.md
+          echo "   <img src=\"https://img.shields.io/badge/-Stay%20Positive-brightgreen?style=for-the-badge&labelColor=black\" alt=\"Stay Positive\" style=\"animation: pulse 1.5s infinite;\">" >> README.md
           echo "</p>" >> README.md
 
       - name: Commit changes
@@ -56,7 +80,7 @@ jobs:
               owner: 'Deeraj7',
               repo: 'Deeraj7',
               path: 'README.md',
-              message: 'Update README with daily quote',
+              message: 'Update README with daily quote and latest intro',
               content: Buffer.from(content).toString('base64'),
               sha: file.sha,
               committer: {
