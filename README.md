@@ -2,23 +2,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%23F75C7E&size=28&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Deeraj+Thakkilapati!;Data+Engineer;Passionate+About+Data+and+Innovation)](https://github.com/Deeraj7)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%234DB6AC&size=28&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Deeraj+Thakkilapati!;Data+Engineer+%7C+Thinker;Data+Engineer+%7C+Learner;Passionate+About+Data+and+Innovation)](https://github.com/Deeraj7)
 
 ---
 
 </div>
 
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=Deeraj7&color=blue" alt="Profile Views"> 
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Deeraj7&color=blue" alt="Profile Views">
 </p>
 
-<p align="center">I’m a passionate data engineering enthusiast who loves transforming ideas into real-world solutions. I specialize in building efficient data pipelines, discovering insights through data, and developing systems that make data accessible and impactful.</p>
+<p align="center">I’m a passionate data engineering enthusiast who loves transforming ideas into impactful solutions. I specialize in building efficient data pipelines, discovering insights through data, and developing systems that make information accessible and powerful. Always a <strong>Thinker</strong> and <strong>Learner</strong>, I thrive on solving problems and creating meaningful change through data.</p>
 
 ---
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The key to immortality is first living a life worth remembering." - **Mae West**
+   "One of the keys to happiness is a bad memory." - **Eleanor Roosevelt**
 </marquee>
 
 ---
