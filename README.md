@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "One mistake does not have to rule a person's entire life." - **John Wooden**
+   "Growing up is losing some illusions, in order to acquire others." - **Mark Twain**
 </marquee>
 
 ---
