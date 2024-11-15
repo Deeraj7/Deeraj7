@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Growing up is losing some illusions, in order to acquire others." - **Mark Twain**
+   "It is far easier to start something than it is to finish it." - **Elon Musk**
 </marquee>
 
 ---
