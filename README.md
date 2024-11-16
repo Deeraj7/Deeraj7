@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is far easier to start something than it is to finish it." - **Elon Musk**
+   "Happiness is not something ready made. It comes from your own actions." - **Eleanor Roosevelt**
 </marquee>
 
 ---
