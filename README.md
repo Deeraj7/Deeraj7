@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness is not something ready made. It comes from your own actions." - **Eleanor Roosevelt**
+   "Great acts are made up of small deeds." - **Eleanor Roosevelt**
 </marquee>
 
 ---
