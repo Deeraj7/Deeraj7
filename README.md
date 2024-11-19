@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday." - **Norman Vincent Peale**
+   "It still holds true that man is most uniquely human when he turns obstacles into opportunities." - **Ayn Rand**
 </marquee>
 
 ---
