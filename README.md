@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It still holds true that man is most uniquely human when he turns obstacles into opportunities." - **Ayn Rand**
+   "Pursue what catches your heart, not what catches your eyes." - **Carl Jung**
 </marquee>
 
 ---
