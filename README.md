@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Pursue what catches your heart, not what catches your eyes." - **Carl Jung**
+   "Still your waters." - **Unknown**
 </marquee>
 
 ---
