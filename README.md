@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Still your waters." - **Unknown**
+   "Everyone you meet is fighting a battle you know nothing about. Be kind. Always." - **Chinese Proverb**
 </marquee>
 
 ---
