@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Everyone you meet is fighting a battle you know nothing about. Be kind. Always." - **Chinese Proverb**
+   "Take care of your body. It's the only place you have to live." - **Rumi**
 </marquee>
 
 ---
