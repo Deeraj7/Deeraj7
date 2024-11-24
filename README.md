@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Take care of your body. It's the only place you have to live." - **Rumi**
+   "You need to be doing fewer things for more effect instead of doing more things with side effects." - **Aristotle**
 </marquee>
 
 ---
