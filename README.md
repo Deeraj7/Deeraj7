@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You need to be doing fewer things for more effect instead of doing more things with side effects." - **Aristotle**
+   "You are the only problem you will ever have and you are the only solution." - **Barack Obama**
 </marquee>
 
 ---
