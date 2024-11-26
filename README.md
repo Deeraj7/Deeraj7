@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are the only problem you will ever have and you are the only solution." - **Barack Obama**
+   "Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed." - **Jonathan Swift**
 </marquee>
 
 ---
