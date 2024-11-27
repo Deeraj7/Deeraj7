@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed." - **Jonathan Swift**
+   "There are as many opinions as there are experts." - **Lolly Daskal**
 </marquee>
 
 ---
