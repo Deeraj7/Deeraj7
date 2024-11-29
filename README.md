@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. " - **Lin Yutang**
+   "The fear of death is more to be feared, than death itself." - **Seneca**
 </marquee>
 
 ---
