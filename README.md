@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The fear of death is more to be feared, than death itself." - **Seneca**
+   "The more you like yourself, the less you are like anyone else, which makes you unique." - **Benjamin Franklin**
 </marquee>
 
 ---
