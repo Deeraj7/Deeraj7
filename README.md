@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The more you like yourself, the less you are like anyone else, which makes you unique." - **Benjamin Franklin**
+   "For all evils there are two remedies - time and silence." - **Eleanor Roosevelt**
 </marquee>
 
 ---
