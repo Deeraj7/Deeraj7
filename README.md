@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "For all evils there are two remedies - time and silence." - **Eleanor Roosevelt**
+   "As soon as you trust yourself, you will know how to live." - **Denis Waitley**
 </marquee>
 
 ---
