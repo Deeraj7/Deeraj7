@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "As soon as you trust yourself, you will know how to live." - **Denis Waitley**
+   "I was wise enough to never grow up while fooling most people into believing I had. " - **W.P. Kinsella**
 </marquee>
 
 ---
