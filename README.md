@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I was wise enough to never grow up while fooling most people into believing I had. " - **W.P. Kinsella**
+   "Courage is resistance to fear, mastery of fear - not absence of fear." - **Seneca**
 </marquee>
 
 ---
