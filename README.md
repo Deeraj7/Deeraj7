@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are not one person, but three: The one you think you are; The one others think you are; The one you really are." - **Criss Jami**
+   "Dreams have only one owner at a time. That's why dreamers are lonely." - **Christopher McCandless**
 </marquee>
 
 ---
