@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Dreams have only one owner at a time. That's why dreamers are lonely." - **Christopher McCandless**
+   "Truth is such a rare thing, it is delighted to tell it." - **Henry Ward Beecher**
 </marquee>
 
 ---
