@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Truth is such a rare thing, it is delighted to tell it." - **Henry Ward Beecher**
+   "All life is a manifestation of the spirit, the manifestation of love." - **Deepak Chopra**
 </marquee>
 
 ---
