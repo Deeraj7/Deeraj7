@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All life is a manifestation of the spirit, the manifestation of love." - **Deepak Chopra**
+   "It doesn't matter how much you want. What really matters is how much you want it." - **Carlos Ruiz Zafon**
 </marquee>
 
 ---
