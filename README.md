@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It doesn't matter how much you want. What really matters is how much you want it." - **Lily Tomlin**
+   "Life is what happens to you while you're busy making other plans." - **Conrad Hilton**
 </marquee>
 
 ---
