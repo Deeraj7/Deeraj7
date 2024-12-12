@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is what happens to you while you're busy making other plans." - **Conrad Hilton**
+   "You are what you believe yourself to be." - **Christopher Columbus**
 </marquee>
 
 ---
