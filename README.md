@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are what you believe yourself to be." - **Christopher Columbus**
+   "If you are ever the smartest person in the room, you are in the wrong room." - **Gustave Flaubert**
 </marquee>
 
 ---
