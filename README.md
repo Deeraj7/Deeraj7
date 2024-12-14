@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you are ever the smartest person in the room, you are in the wrong room." - **Gustave Flaubert**
+   "Always be a first-rate version of yourself, instead of a second-rate version of someone else." - **Jim Rohn**
 </marquee>
 
 ---
