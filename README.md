@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Always be a first-rate version of yourself, instead of a second-rate version of someone else." - **Jim Rohn**
+   "If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else." - **Ming-Dao Deng**
 </marquee>
 
 ---
