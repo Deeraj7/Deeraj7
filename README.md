@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else." - **Ming-Dao Deng**
+   "That some achieve great success is proof to all that others can achieve it as well." - **Bodhidharma**
 </marquee>
 
 ---
