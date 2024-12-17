@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "That some achieve great success is proof to all that others can achieve it as well." - **Bodhidharma**
+   "Life is either a daring adventure, or it is nothing." - **J.R.R. Tolkien**
 </marquee>
 
 ---
