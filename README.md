@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is either a daring adventure, or it is nothing." - **J.R.R. Tolkien**
+   "Don't let the noise of others' opinions drown out your own inner voice." - **Lolly Daskal**
 </marquee>
 
 ---
