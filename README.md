@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being." - **Alexander Pope**
+   "Trust is the foundation of great leadership." - **Buddha**
 </marquee>
 
 ---
