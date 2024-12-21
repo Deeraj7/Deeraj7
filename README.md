@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Trust is the foundation of great leadership." - **Buddha**
+   "The impossible can always be broken down into possibilities." - **Eckhart Tolle**
 </marquee>
 
 ---
