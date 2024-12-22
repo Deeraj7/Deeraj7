@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The impossible can always be broken down into possibilities." - **Eckhart Tolle**
+   "Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing." - **Lao Tzu**
 </marquee>
 
 ---
