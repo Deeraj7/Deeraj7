@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing." - **Lao Tzu**
+   "A real friend is one who walks in when the rest of the world walks out." - **Sun Tzu**
 </marquee>
 
 ---
