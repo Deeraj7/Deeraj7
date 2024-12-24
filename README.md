@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A real friend is one who walks in when the rest of the world walks out." - **Sun Tzu**
+   "I know of only one duty, and that is to love." - **Kahlil Gibran**
 </marquee>
 
 ---
