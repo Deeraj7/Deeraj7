@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I know of only one duty, and that is to love." - **Kahlil Gibran**
+   "Ponder and deliberate before you make a move." - **Ayn Rand**
 </marquee>
 
 ---
