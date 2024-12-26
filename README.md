@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Ponder and deliberate before you make a move." - **Ayn Rand**
+   "Greatness comes from living with purpose and passion." - **Thomas Edison**
 </marquee>
 
 ---
