@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Greatness comes from living with purpose and passion." - **Thomas Edison**
+   "An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind." - **Johann Wolfgang von Goethe**
 </marquee>
 
 ---
