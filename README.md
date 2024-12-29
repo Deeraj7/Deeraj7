@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There's no next time. It's now or never." - **Pablo Picasso**
+   "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." - **F. Scott Fitzgerald**
 </marquee>
 
 ---
