@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." - **F. Scott Fitzgerald**
+   "When the time is gone, you can never get it back." - **Franklin D. Roosevelt**
 </marquee>
 
 ---
