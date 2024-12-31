@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When the time is gone, you can never get it back." - **Franklin D. Roosevelt**
+   "It's your outlook on life that counts." - **George Bernard Shaw**
 </marquee>
 
 ---
