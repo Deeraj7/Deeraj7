@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's your outlook on life that counts." - **George Bernard Shaw**
+   "When people are free to do as they please, they usually imitate each other." - **Bob Proctor**
 </marquee>
 
 ---
