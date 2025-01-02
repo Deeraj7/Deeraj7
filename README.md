@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When people are free to do as they please, they usually imitate each other." - **Bob Proctor**
+   "Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." - **Lin Yutang**
 </marquee>
 
 ---
