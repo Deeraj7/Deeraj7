@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." - **Lin Yutang**
+   "There are no mistakes in life, only lessons." - **Hans Christian Andersen**
 </marquee>
 
 ---
