@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There are no mistakes in life, only lessons." - **Hans Christian Andersen**
+   "Prefer to be defeated in the presence of the wise than to excel among fools." - **Oprah Winfrey**
 </marquee>
 
 ---
