@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Prefer to be defeated in the presence of the wise than to excel among fools." - **Oprah Winfrey**
+   "There is nothing in the world so irresistibly contagious as laughter and good humor." - **Michael Jordan**
 </marquee>
 
 ---
