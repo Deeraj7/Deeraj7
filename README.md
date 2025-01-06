@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is nothing in the world so irresistibly contagious as laughter and good humor." - **Michael Jordan**
+   "Nothing is too high for a man to reach, but he must climb with care and confidence" - **Publilius Syrus**
 </marquee>
 
 ---
