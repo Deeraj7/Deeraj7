@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing is too high for a man to reach, but he must climb with care and confidence" - **Publilius Syrus**
+   "You can do two things at once, but you can't focus effectively on two things at once." - **Ayn Rand**
 </marquee>
 
 ---
