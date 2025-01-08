@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can do two things at once, but you can't focus effectively on two things at once." - **Ayn Rand**
+   "You are not stuck where you are unless you decide to be.  " - **Lao Tzu**
 </marquee>
 
 ---
