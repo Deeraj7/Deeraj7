@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are not stuck where you are unless you decide to be.  " - **Lao Tzu**
+   "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." - **Napoleon Hill**
 </marquee>
 
 ---
