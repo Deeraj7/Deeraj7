@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." - **Napoleon Hill**
+   "Peace begins with a smile." - **Wayne Dyer**
 </marquee>
 
 ---
