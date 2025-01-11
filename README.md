@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Peace begins with a smile." - **Wayne Dyer**
+   "What is planted in each person's soul will sprout.  " - **Martin Luther King, Jr.**
 </marquee>
 
 ---
