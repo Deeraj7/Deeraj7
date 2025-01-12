@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What is planted in each person's soul will sprout.  " - **Martin Luther King, Jr.**
+   "A clear conscience never fears midnight knocking." - **Niccolo Machiavelli**
 </marquee>
 
 ---
