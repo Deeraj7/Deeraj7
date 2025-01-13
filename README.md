@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A clear conscience never fears midnight knocking." - **Niccolo Machiavelli**
+   "All wealth is the product of labor." - **Miguel de Cervantes**
 </marquee>
 
 ---
