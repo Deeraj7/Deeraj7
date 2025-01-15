@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All wealth is the product of labor." - **Miguel de Cervantes**
+   "There is no greater agony than bearing an untold story inside you." - **Anne Frank**
 </marquee>
 
 ---
