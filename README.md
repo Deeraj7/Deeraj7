@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is no greater agony than bearing an untold story inside you." - **Anne Frank**
+   "Live your life as an exclamation rather than an explanation." - **Bob Dylan**
 </marquee>
 
 ---
