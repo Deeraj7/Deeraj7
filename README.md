@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Live your life as an exclamation rather than an explanation." - **Bob Dylan**
+   "Any fool can turn a blind eye but who knows what the ostrich sees in the sand." - **Dalai Lama**
 </marquee>
 
 ---
