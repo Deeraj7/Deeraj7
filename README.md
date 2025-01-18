@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Any fool can turn a blind eye but who knows what the ostrich sees in the sand." - **Dalai Lama**
+   "You know the more one does the more one can do." - **Johann Wolfgang von Goethe**
 </marquee>
 
 ---
