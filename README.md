@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You know the more one does the more one can do." - **Johann Wolfgang von Goethe**
+   "The only way out is through." - **Herbert Hoover**
 </marquee>
 
 ---
