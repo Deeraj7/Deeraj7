@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The only way out is through." - **Herbert Hoover**
+   "A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy." - **Publilius Syrus**
 </marquee>
 
 ---
