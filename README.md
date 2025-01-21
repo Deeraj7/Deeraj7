@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy." - **Publilius Syrus**
+   "Victory is always possible for the person who refuses to stop fighting." - **Rumi**
 </marquee>
 
 ---
