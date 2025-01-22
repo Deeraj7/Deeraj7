@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Victory is always possible for the person who refuses to stop fighting." - **Rumi**
+   "Trusting our intuition often saves us from disaster. " - **Toni Morrison**
 </marquee>
 
 ---
