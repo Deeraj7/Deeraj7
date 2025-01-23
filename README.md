@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Trusting our intuition often saves us from disaster. " - **Toni Morrison**
+   "Action is the foundational key to all success." - **Estee Lauder**
 </marquee>
 
 ---
