@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work." - **Lily Tomlin**
+   "A dead thing can go with the stream, but only a living thing can go against it." - **Rumi**
 </marquee>
 
 ---
