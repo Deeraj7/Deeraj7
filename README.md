@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Absence makes the heart grow fonder." - **Ralph Waldo Emerson**
+   "To be angry is to revenge the faults of others on ourselves." - **Alan Watts**
 </marquee>
 
 ---
