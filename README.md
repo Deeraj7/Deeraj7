@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To be angry is to revenge the faults of others on ourselves." - **Alan Watts**
+   "You don't earn loyalty in a day. You earn loyalty day-by-day." - **Confucius**
 </marquee>
 
 ---
