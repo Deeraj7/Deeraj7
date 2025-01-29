@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You don't earn loyalty in a day. You earn loyalty day-by-day." - **Confucius**
+   "Through discipline comes freedom." - **J.R.R. Tolkien**
 </marquee>
 
 ---
