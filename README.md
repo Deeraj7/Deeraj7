@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Through discipline comes freedom." - **J.R.R. Tolkien**
+   "Lost Time is never found again." - **Elon Musk**
 </marquee>
 
 ---
