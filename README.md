@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Lost Time is never found again." - **Elon Musk**
+   "I cannot make my days longer so I strive to make them better." - **Aristotle**
 </marquee>
 
 ---
