@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I cannot make my days longer so I strive to make them better." - **Aristotle**
+   "Engage in those actions and thoughts that nurture the good qualities you want to have." - **Kahlil Gibran**
 </marquee>
 
 ---
