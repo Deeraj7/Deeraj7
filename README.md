@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Engage in those actions and thoughts that nurture the good qualities you want to have." - **Kahlil Gibran**
+   "Turn off your mind, relax, and float downstream." - **Herbert Hoover**
 </marquee>
 
 ---
