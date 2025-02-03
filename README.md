@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Turn off your mind, relax, and float downstream." - **Herbert Hoover**
+   "To love means loving the unlovable." - **Lao Tzu**
 </marquee>
 
 ---
