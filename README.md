@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To love means loving the unlovable." - **Lao Tzu**
+   "True wealth is of the heart, not of the purse." - **Steve Maraboli**
 </marquee>
 
 ---
