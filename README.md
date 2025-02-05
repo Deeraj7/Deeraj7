@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "True wealth is of the heart, not of the purse." - **Steve Maraboli**
+   "If you try to micromanage yourself all you're going to do is make yourself miserable." - **Aristotle**
 </marquee>
 
 ---
