@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you try to micromanage yourself all you're going to do is make yourself miserable." - **Aristotle**
+   "Only in the agony of parting do we look into the depths of love." - **Deepak Chopra**
 </marquee>
 
 ---
