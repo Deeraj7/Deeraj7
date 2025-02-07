@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Only in the agony of parting do we look into the depths of love." - **Deepak Chopra**
+   "To be angry is to revenge the faults of others on ourselves." - **Paulo Coelho**
 </marquee>
 
 ---
