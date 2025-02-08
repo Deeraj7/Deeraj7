@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To be angry is to revenge the faults of others on ourselves." - **Paulo Coelho**
+   "Any game becomes important when you know and love the players." - **Morihei Ueshiba**
 </marquee>
 
 ---
