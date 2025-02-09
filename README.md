@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Any game becomes important when you know and love the players." - **Morihei Ueshiba**
+   "Perseverance and spirit have done wonders in all ages. " - **Tony Robbins**
 </marquee>
 
 ---
