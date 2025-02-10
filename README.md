@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Perseverance and spirit have done wonders in all ages. " - **Tony Robbins**
+   "Formal education will make you a living, self-education will make you a fortune." - **Franz Kafka**
 </marquee>
 
 ---
