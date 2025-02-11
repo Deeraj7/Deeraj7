@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Formal education will make you a living, self-education will make you a fortune." - **Franz Kafka**
+   "Everybody's life is either rewarding or an example." - **Emily Dickinson**
 </marquee>
 
 ---
