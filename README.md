@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Everybody's life is either rewarding or an example." - **Emily Dickinson**
+   "The way we feel is the direct result of what we think." - **Benjamin Franklin**
 </marquee>
 
 ---
