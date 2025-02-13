@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The way we feel is the direct result of what we think." - **Benjamin Franklin**
+   "Care about what other people think and you will always be their prisoner." - **Zhuangzi**
 </marquee>
 
 ---
