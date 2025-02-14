@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Care about what other people think and you will always be their prisoner." - **Zhuangzi**
+   "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." - **Lily Tomlin**
 </marquee>
 
 ---
