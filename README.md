@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." - **Lily Tomlin**
+   "No man can get rich himself unless he enriches others." - **Thomas Edison**
 </marquee>
 
 ---
