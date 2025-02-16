@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No man can get rich himself unless he enriches others." - **Thomas Edison**
+   "Happiness is a quality of the soul...not a function of one's material circumstances." - **Amelia Earhart**
 </marquee>
 
 ---
