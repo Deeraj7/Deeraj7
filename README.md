@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness is a quality of the soul...not a function of one's material circumstances." - **Amelia Earhart**
+   "To travel is to be alive, but to get somewhere is to be dead." - **Miguel de Cervantes**
 </marquee>
 
 ---
