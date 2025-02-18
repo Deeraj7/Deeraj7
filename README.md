@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To travel is to be alive, but to get somewhere is to be dead." - **Miguel de Cervantes**
+   "Curiosity is the most powerful thing you own." - **Niccolo Machiavelli**
 </marquee>
 
 ---
