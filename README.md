@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Curiosity is the most powerful thing you own." - **Niccolo Machiavelli**
+   "Everything begins with an idea." - **Vaclav Havel**
 </marquee>
 
 ---
