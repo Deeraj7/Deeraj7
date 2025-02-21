@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The more I want to get something done, the less I call it work." - **Martin Luther King, Jr.**
+   "Every second you have on this planet is very precious and it's your responsibility that you're happy." - **Sathya Sai Baba**
 </marquee>
 
 ---
