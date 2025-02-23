@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Freeing oneself from words is liberation. " - **Deepak Chopra**
+   "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - **Soyen Shaku**
 </marquee>
 
 ---
