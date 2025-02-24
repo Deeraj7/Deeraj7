@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - **Soyen Shaku**
+   "Remember that sometimes not getting what you want is a wonderful stroke of luck." - **Simon Sinek**
 </marquee>
 
 ---
