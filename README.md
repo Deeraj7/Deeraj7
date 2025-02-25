@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Remember that sometimes not getting what you want is a wonderful stroke of luck." - **Simon Sinek**
+   "Where there is no struggle, there is no strength. " - **Euripides**
 </marquee>
 
 ---
