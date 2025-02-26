@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Where there is no struggle, there is no strength. " - **Euripides**
+   "If you want to keep your memories, you first have to live them." - **Dalai Lama**
 </marquee>
 
 ---
