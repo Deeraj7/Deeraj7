@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Keep your face to the sunshine and you cannot see the shadows." - **Coco Chanel**
+   "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." - **Dan Millman**
 </marquee>
 
 ---
