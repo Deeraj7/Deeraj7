@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." - **Dan Millman**
+   "Most people fail in life because they major in minor things." - **Henry Ward Beecher**
 </marquee>
 
 ---
