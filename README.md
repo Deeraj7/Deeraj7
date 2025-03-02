@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Most people fail in life because they major in minor things." - **Henry Ward Beecher**
+   "Every day may not be good, but there's something good in every day." - **Jonathan Swift**
 </marquee>
 
 ---
