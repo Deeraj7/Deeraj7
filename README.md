@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every day may not be good, but there's something good in every day." - **Jonathan Swift**
+   "When you judge another, you do not define them, you define yourself" - **Jim Rohn**
 </marquee>
 
 ---
