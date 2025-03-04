@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you judge another, you do not define them, you define yourself" - **Jim Rohn**
+   "We build too many walls and not enough bridges." - **Walt Disney**
 </marquee>
 
 ---
