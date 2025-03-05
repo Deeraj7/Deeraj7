@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We build too many walls and not enough bridges." - **Walt Disney**
+   "Understanding that rests in what it does not understand is the finest." - **Gilbert Chesterton**
 </marquee>
 
 ---
