@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Understanding that rests in what it does not understand is the finest." - **Gilbert Chesterton**
+   "Get mad, then get over it." - **Les Brown**
 </marquee>
 
 ---
