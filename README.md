@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Get mad, then get over it." - **Les Brown**
+   "The grass is greener where you water it." - **Lin Yutang**
 </marquee>
 
 ---
