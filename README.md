@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The grass is greener where you water it." - **Lin Yutang**
+   "If you have only one smile in you give it to the people you love." - **George Bernard Shaw**
 </marquee>
 
 ---
