@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you have only one smile in you give it to the people you love." - **George Bernard Shaw**
+   "You don't need to be better than anyone else, you just need to be better than you used to be." - **Voltaire**
 </marquee>
 
 ---
