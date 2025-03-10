@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You don't need to be better than anyone else, you just need to be better than you used to be." - **Voltaire**
+   "Champions keep playing until they get it right." - **Chinese Proverb**
 </marquee>
 
 ---
