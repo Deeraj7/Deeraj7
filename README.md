@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Champions keep playing until they get it right." - **Chinese Proverb**
+   "You can do two things at once, but you can't focus effectively on two things at once." - **Euripides**
 </marquee>
 
 ---
