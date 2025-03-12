@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can do two things at once, but you can't focus effectively on two things at once." - **Euripides**
+   "To the world you may be one person; but to one person you may be the world." - **Leonardo da Vinci**
 </marquee>
 
 ---
