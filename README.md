@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To the world you may be one person; but to one person you may be the world." - **Leonardo da Vinci**
+   "Here and now...breathe and relax...in battle and in life." - **Stephen King**
 </marquee>
 
 ---
