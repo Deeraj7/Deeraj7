@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Here and now...breathe and relax...in battle and in life." - **Stephen King**
+   "FOCUS - Follow One Course Until Successful" - **Steve Jobs**
 </marquee>
 
 ---
