@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "FOCUS - Follow One Course Until Successful" - **Steve Jobs**
+   "It is the greatest of all mistakes to do nothing because you can only do little; do something." - **Billie Jean King**
 </marquee>
 
 ---
