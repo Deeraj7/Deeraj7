@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is the greatest of all mistakes to do nothing because you can only do little; do something." - **Billie Jean King**
+   "You don't get in life what you want; you get in life what you are." - **Jack Butcher**
 </marquee>
 
 ---
