@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You don't get in life what you want; you get in life what you are." - **Jack Butcher**
+   "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." - **Naval Ravikant**
 </marquee>
 
 ---
