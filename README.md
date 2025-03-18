@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." - **Naval Ravikant**
+   "Take care of your cents: dollars will take care of themselves." - **Dalai Lama**
 </marquee>
 
 ---
