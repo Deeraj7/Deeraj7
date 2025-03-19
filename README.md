@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Take care of your cents: dollars will take care of themselves." - **Dalai Lama**
+   "He who knows best knows how little he knows." - **Lolly Daskal**
 </marquee>
 
 ---
