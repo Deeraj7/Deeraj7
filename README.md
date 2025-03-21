@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." - **Aristotle**
+   "What the caterpillar calls the end of the world, the master calls a butterfly." - **Dr. Seuss**
 </marquee>
 
 ---
