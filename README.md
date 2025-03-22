@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What the caterpillar calls the end of the world, the master calls a butterfly." - **Dr. Seuss**
+   "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." - **A.A. Milne**
 </marquee>
 
 ---
