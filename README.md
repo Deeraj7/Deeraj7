@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." - **A.A. Milne**
+   "A man's worth is no greater than his ambitions." - **Celestine Chua**
 </marquee>
 
 ---
