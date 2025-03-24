@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A man's worth is no greater than his ambitions." - **Celestine Chua**
+   "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - **Roy T. Bennett**
 </marquee>
 
 ---
