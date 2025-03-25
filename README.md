@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - **Roy T. Bennett**
+   "The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - **Jim Rohn**
 </marquee>
 
 ---
