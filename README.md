@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - **Jim Rohn**
+   "Beauty is not in the face; beauty is a light in the heart." - **Confucius**
 </marquee>
 
 ---
