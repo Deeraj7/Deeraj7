@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Beauty is not in the face; beauty is a light in the heart." - **Confucius**
+   "Without the confidence, nothing can be accomplished." - **Ming-Dao Deng**
 </marquee>
 
 ---
