@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Without the confidence, nothing can be accomplished." - **Ming-Dao Deng**
+   "Discipline is the bridge between goals and accomplishment." - **Pablo Picasso**
 </marquee>
 
 ---
