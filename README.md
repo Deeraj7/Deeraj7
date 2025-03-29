@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Discipline is the bridge between goals and accomplishment." - **Pablo Picasso**
+   "Be true to yourself, help others, make each day your masterpiece" - **Charles Dickens**
 </marquee>
 
 ---
