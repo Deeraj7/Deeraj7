@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be true to yourself, help others, make each day your masterpiece" - **Charles Dickens**
+   "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." - **Maya Angelou**
 </marquee>
 
 ---
