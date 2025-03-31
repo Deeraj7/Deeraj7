@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." - **Maya Angelou**
+   "Some of us learn from other people's mistakes and the rest of us have to be other people.  " - **Josh Waitzkin**
 </marquee>
 
 ---
