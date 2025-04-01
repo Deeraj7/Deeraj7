@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Some of us learn from other people's mistakes and the rest of us have to be other people.  " - **Josh Waitzkin**
+   "Why compare yourself with others? No one in the entire world can do a better job of being you than you." - **Paulo Coelho**
 </marquee>
 
 ---
