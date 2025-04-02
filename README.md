@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Why compare yourself with others? No one in the entire world can do a better job of being you than you." - **Paulo Coelho**
+   "Riches don't make a man rich, they only make him busier." - **Samuel Butler**
 </marquee>
 
 ---
