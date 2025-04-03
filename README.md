@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Riches don't make a man rich, they only make him busier." - **Samuel Butler**
+   "I never said it would be easy, I only said it would be worth it." - **Brian Tracy**
 </marquee>
 
 ---
