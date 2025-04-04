@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I never said it would be easy, I only said it would be worth it." - **Brian Tracy**
+   "Life is like riding a bicycle. To keep your balance you must keep moving." - **Bhagavad Gita**
 </marquee>
 
 ---
