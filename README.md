@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is like riding a bicycle. To keep your balance you must keep moving." - **Bhagavad Gita**
+   "Do you want to know who you are? Don't ask. Act! Action will delineate and define you." - **Yanni**
 </marquee>
 
 ---
