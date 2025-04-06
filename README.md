@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Do you want to know who you are? Don't ask. Act! Action will delineate and define you." - **Yanni**
+   "It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - **Marcus Aurelius**
 </marquee>
 
 ---
