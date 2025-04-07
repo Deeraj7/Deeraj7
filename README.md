@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - **Marcus Aurelius**
+   "Every act of creation is first an act of destruction." - **Elon Musk**
 </marquee>
 
 ---
