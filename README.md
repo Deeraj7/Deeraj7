@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every act of creation is first an act of destruction." - **Elon Musk**
+   "Discipline is the mark of intelligent living." - **Dan Millman**
 </marquee>
 
 ---
