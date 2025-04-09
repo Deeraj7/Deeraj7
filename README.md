@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Discipline is the mark of intelligent living." - **Dan Millman**
+   "Creativity is intelligence having fun." - **Ralph Waldo Emerson**
 </marquee>
 
 ---
