@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Creativity is intelligence having fun." - **Ralph Waldo Emerson**
+   "Make your stand today. On this spot. On this day." - **Unknown**
 </marquee>
 
 ---
