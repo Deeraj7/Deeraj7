@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make your stand today. On this spot. On this day." - **Unknown**
+   "Life's too mysterious to take too serious." - **Morihei Ueshiba**
 </marquee>
 
 ---
