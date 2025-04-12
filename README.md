@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life's too mysterious to take too serious." - **Morihei Ueshiba**
+   "Until you change how you get things done, you'll never know what works best." - **Mother Teresa**
 </marquee>
 
 ---
