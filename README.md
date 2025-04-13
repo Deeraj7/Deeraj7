@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Until you change how you get things done, you'll never know what works best." - **Mother Teresa**
+   "From the errors of others, a wise man corrects his own." - **Robin Sharma**
 </marquee>
 
 ---
