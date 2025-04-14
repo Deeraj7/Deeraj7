@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "From the errors of others, a wise man corrects his own." - **Robin Sharma**
+   "Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - **John Locke**
 </marquee>
 
 ---
