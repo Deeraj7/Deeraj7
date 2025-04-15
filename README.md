@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy." - **John Locke**
+   "Help others and give something back." - **Oprah Winfrey**
 </marquee>
 
 ---
