@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Help others and give something back." - **Oprah Winfrey**
+   "In three words I can sum up everything I've learned about life: it goes on." - **F. Scott Fitzgerald**
 </marquee>
 
 ---
