@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In three words I can sum up everything I've learned about life: it goes on." - **F. Scott Fitzgerald**
+   "What lies behind us and what lies before us are tiny matters compared to what lies within us." - **Charles Dickens**
 </marquee>
 
 ---
