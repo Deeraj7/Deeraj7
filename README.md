@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What lies behind us and what lies before us are tiny matters compared to what lies within us." - **Charles Dickens**
+   "Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams." - **Alfred Adler**
 </marquee>
 
 ---
