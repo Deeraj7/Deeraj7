@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams." - **Alfred Adler**
+   "Receive without pride, let go without attachment." - **Anne Frank**
 </marquee>
 
 ---
