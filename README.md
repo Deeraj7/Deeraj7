@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Receive without pride, let go without attachment." - **Anne Frank**
+   "To improve is to change, so to be perfect is to change often." - **Seneca**
 </marquee>
 
 ---
