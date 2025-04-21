@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To improve is to change, so to be perfect is to change often." - **Seneca**
+   "The highest level of wisdom is when you not only accept but love adversity." - **Unknown**
 </marquee>
 
 ---
