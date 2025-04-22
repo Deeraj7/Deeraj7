@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The highest level of wisdom is when you not only accept but love adversity." - **Unknown**
+   "Failure is acceptable. Not trying is a whole different ball park." - **Richard Bach**
 </marquee>
 
 ---
