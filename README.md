@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Failure is acceptable. Not trying is a whole different ball park." - **Richard Bach**
+   "The less people know, the more stubbornly they know it." - **Alexandre Dumas**
 </marquee>
 
 ---
