@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The less people know, the more stubbornly they know it." - **Alexandre Dumas**
+   "Winners don't Quit. That's why they Win." - **Oprah Winfrey**
 </marquee>
 
 ---
