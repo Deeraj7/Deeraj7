@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Winners don't Quit. That's why they Win." - **Oprah Winfrey**
+   "Faith means believing the unbelievable." - **Carlos Ruiz Zafon**
 </marquee>
 
 ---
