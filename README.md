@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Faith means believing the unbelievable." - **Carlos Ruiz Zafon**
+   "Go for it now. The future is promised to no one." - **Nikola Tesla**
 </marquee>
 
 ---
