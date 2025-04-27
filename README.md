@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Go for it now. The future is promised to no one." - **Nikola Tesla**
+   "As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt." - **Paulo Coelho**
 </marquee>
 
 ---
