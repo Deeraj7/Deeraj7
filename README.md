@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt." - **Paulo Coelho**
+   "Great minds are always feared by lesser minds." - **Confucius**
 </marquee>
 
 ---
