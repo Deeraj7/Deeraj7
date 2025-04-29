@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Great minds are always feared by lesser minds." - **Confucius**
+   "Human beings can alter their lives by altering their attitudes of mind." - **Simon Sinek**
 </marquee>
 
 ---
