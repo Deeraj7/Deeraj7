@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Human beings can alter their lives by altering their attitudes of mind." - **Simon Sinek**
+   "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." - **Gilbert Chesterton**
 </marquee>
 
 ---
