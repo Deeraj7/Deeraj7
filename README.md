@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." - **Gilbert Chesterton**
+   "All things come into being by conflict of opposites." - **Amelia Earhart**
 </marquee>
 
 ---
