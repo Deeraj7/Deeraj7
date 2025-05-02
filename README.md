@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All things come into being by conflict of opposites." - **Amelia Earhart**
+   "Nature is pleased with simplicity. And nature is no dummy." - **Joyce Meyer**
 </marquee>
 
 ---
