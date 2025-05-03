@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nature is pleased with simplicity. And nature is no dummy." - **Joyce Meyer**
+   "Be thankful for everything that happens in your life; it's all an experience." - **Jim Rohn**
 </marquee>
 
 ---
