@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be thankful for everything that happens in your life; it's all an experience." - **Jim Rohn**
+   "Those who are easily shocked should be shocked more often." - **Jiddu Krishnamurti**
 </marquee>
 
 ---
