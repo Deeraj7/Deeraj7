@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Those who are easily shocked should be shocked more often." - **Jiddu Krishnamurti**
+   "Happiness is pretty simple: someone to love, something to do, something to look forward to." - **Herodotus**
 </marquee>
 
 ---
