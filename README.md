@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness is pretty simple: someone to love, something to do, something to look forward to." - **Herodotus**
+   "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." - **Pablo Picasso**
 </marquee>
 
 ---
