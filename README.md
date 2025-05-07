@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." - **Pablo Picasso**
+   "Let us rather run the risk of wearing out than rusting out." - **Napoleon Hill**
 </marquee>
 
 ---
