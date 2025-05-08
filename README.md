@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Let us rather run the risk of wearing out than rusting out." - **Napoleon Hill**
+   "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." - **Criss Jami**
 </marquee>
 
 ---
