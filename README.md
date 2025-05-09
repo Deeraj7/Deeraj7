@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." - **Criss Jami**
+   "The greatest of empires, is the empire over one's self." - **Albert Einstein**
 </marquee>
 
 ---
