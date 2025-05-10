@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The greatest of empires, is the empire over one's self." - **Albert Einstein**
+   "There is no absolute success in the world, only constant progress." - **Dalai Lama**
 </marquee>
 
 ---
