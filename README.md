@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is no absolute success in the world, only constant progress." - **Dalai Lama**
+   "The purpose of life is the life of purpose." - **Steve Harvey**
 </marquee>
 
 ---
