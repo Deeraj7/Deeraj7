@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The purpose of life is the life of purpose." - **Steve Harvey**
+   "When your intuition is strong, follow it." - **Tony Robbins**
 </marquee>
 
 ---
