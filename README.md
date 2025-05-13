@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When your intuition is strong, follow it." - **Tony Robbins**
+   "A warrior does not give up what he loves, he finds the love in what he does." - **Paulo Coelho**
 </marquee>
 
 ---
