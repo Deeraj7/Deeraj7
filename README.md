@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A warrior does not give up what he loves, he finds the love in what he does." - **Paulo Coelho**
+   "Give out what you most want to come back." - **Ronald Reagan**
 </marquee>
 
 ---
