@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Give out what you most want to come back." - **Ronald Reagan**
+   "The people who are crazy enough to think they can change the world are the ones who do." - **Zig Ziglar**
 </marquee>
 
 ---
