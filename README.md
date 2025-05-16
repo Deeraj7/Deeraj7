@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The people who are crazy enough to think they can change the world are the ones who do." - **Zig Ziglar**
+   "Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." - **Elvis Presley**
 </marquee>
 
 ---
