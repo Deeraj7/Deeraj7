@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Courage is resistance to fear, mastery of fear - not absence of fear." - **Stephen Hawking**
+   "Against the assault of laughter nothing can stand." - **Martin Luther King, Jr.**
 </marquee>
 
 ---
