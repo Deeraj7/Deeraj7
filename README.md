@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Against the assault of laughter nothing can stand." - **Martin Luther King, Jr.**
+   "One is never afraid of the unknown; one is afraid of the known coming to an end." - **John Wooden**
 </marquee>
 
 ---
