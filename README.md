@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "One is never afraid of the unknown; one is afraid of the known coming to an end." - **John Wooden**
+   "Fear does not have any special power unless you empower it by submitting to it." - **Paramahansa Yogananda**
 </marquee>
 
 ---
