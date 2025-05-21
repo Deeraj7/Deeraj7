@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Fear does not have any special power unless you empower it by submitting to it." - **Paramahansa Yogananda**
+   "If you don't like something change it; if you can't change it, change the way you think about it." - **Martin Luther King, Jr.**
 </marquee>
 
 ---
