@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you don't like something change it; if you can't change it, change the way you think about it." - **Martin Luther King, Jr.**
+   "Good things aren't supposed to just fall into your lap." - **Pema Chodron**
 </marquee>
 
 ---
