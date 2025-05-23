@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Good things aren't supposed to just fall into your lap." - **Pema Chodron**
+   "If you don't like something change it; if you can't change it, change the way you think about it." - **Eleanor Roosevelt**
 </marquee>
 
 ---
