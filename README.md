@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you don't like something change it; if you can't change it, change the way you think about it." - **Eleanor Roosevelt**
+   "Every one of us is the sum total of his own thoughts." - **Carlos Ruiz Zafon**
 </marquee>
 
 ---
