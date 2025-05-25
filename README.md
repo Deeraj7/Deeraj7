@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every one of us is the sum total of his own thoughts." - **Carlos Ruiz Zafon**
+   "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - **Harry S. Truman**
 </marquee>
 
 ---
