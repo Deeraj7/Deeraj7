@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - **Harry S. Truman**
+   "The hardest arithmetic to master is that which enables us to count our blessings." - **Thomas Jefferson**
 </marquee>
 
 ---
