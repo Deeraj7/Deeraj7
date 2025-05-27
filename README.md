@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The hardest arithmetic to master is that which enables us to count our blessings." - **Thomas Jefferson**
+   "Never argue with ignorance. It only leads to frustration." - **Henry David Thoreau**
 </marquee>
 
 ---
