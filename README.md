@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Never argue with ignorance. It only leads to frustration." - **Henry David Thoreau**
+   "Peace is letting it be. Letting life flow, letting emotions flow through you." - **Robert Kiyosaki**
 </marquee>
 
 ---
