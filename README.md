@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Peace is letting it be. Letting life flow, letting emotions flow through you." - **Robert Kiyosaki**
+   "Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome." - **Naval Ravikant**
 </marquee>
 
 ---
