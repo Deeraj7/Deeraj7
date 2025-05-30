@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome." - **Naval Ravikant**
+   "Make yourself so useful to other people, that they think you are irreplaceable." - **Gurbaksh Chahal**
 </marquee>
 
 ---
