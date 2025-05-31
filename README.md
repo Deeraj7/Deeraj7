@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make yourself so useful to other people, that they think you are irreplaceable." - **Gurbaksh Chahal**
+   "The greatest work that kindness does to others is that it makes them kind themselves." - **Chinese Proverb**
 </marquee>
 
 ---
