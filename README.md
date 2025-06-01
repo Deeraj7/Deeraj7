@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The greatest work that kindness does to others is that it makes them kind themselves." - **Chinese Proverb**
+   "Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them." - **Mahatma Gandhi**
 </marquee>
 
 ---
