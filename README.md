@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them." - **Mahatma Gandhi**
+   "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - **Honore de Balzac**
 </marquee>
 
 ---
