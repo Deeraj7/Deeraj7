@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - **Honore de Balzac**
+   "Motivation gets you going and habit gets you there.  " - **Elvis Presley**
 </marquee>
 
 ---
