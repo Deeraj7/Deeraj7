@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Motivation gets you going and habit gets you there.  " - **Elvis Presley**
+   "A dead thing can go with the stream, but only a living thing can go against it." - **Seneca**
 </marquee>
 
 ---
