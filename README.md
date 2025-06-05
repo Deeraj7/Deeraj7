@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A dead thing can go with the stream, but only a living thing can go against it." - **Seneca**
+   "Our happiness depends on the habit of mind we cultivate." - **Henry David Thoreau**
 </marquee>
 
 ---
