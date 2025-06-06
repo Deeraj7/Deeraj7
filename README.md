@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Our happiness depends on the habit of mind we cultivate." - **Henry David Thoreau**
+   "Duty makes us do things well, but love makes us do them beautifully.  " - **Benjamin Franklin**
 </marquee>
 
 ---
