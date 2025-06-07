@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Duty makes us do things well, but love makes us do them beautifully.  " - **Benjamin Franklin**
+   "Sometimes you have to travel a long way to find what is near." - **Charles Dickens**
 </marquee>
 
 ---
