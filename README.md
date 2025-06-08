@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Sometimes you have to travel a long way to find what is near." - **Charles Dickens**
+   "Mistakes are always forgivable, if one has the courage to admit them. " - **Virginia Woolf**
 </marquee>
 
 ---
