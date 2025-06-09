@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Mistakes are always forgivable, if one has the courage to admit them. " - **Virginia Woolf**
+   "Death and life have their determined appointments; riches and honors depend upon heaven. " - **John Eliot**
 </marquee>
 
 ---
