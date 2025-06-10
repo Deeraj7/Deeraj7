@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Death and life have their determined appointments; riches and honors depend upon heaven. " - **John Eliot**
+   "Sometimes it is more important to discover what one cannot do, than what one can do." - **Bhagavad Gita**
 </marquee>
 
 ---
