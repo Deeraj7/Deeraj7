@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Sometimes it is more important to discover what one cannot do, than what one can do." - **Bhagavad Gita**
+   "Confidence breeds beauty.  " - **Martin Luther King, Jr.**
 </marquee>
 
 ---
