@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Confidence breeds beauty.  " - **Martin Luther King, Jr.**
+   "A warrior does not give up what he loves, he finds the love in what he does." - **Alexander Pope**
 </marquee>
 
 ---
