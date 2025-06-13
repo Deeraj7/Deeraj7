@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A warrior does not give up what he loves, he finds the love in what he does." - **Alexander Pope**
+   "Greatest success comes just one step beyond the point at which defeat overtakes you." - **Pablo Picasso**
 </marquee>
 
 ---
