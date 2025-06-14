@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Greatest success comes just one step beyond the point at which defeat overtakes you." - **Pablo Picasso**
+   "Do Something. If it works, do more of it. If it doesn't, do something else." - **Vaclav Havel**
 </marquee>
 
 ---
