@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Do Something. If it works, do more of it. If it doesn't, do something else." - **Vaclav Havel**
+   "The greatest doer must also be a great dreamer." - **Josh Waitzkin**
 </marquee>
 
 ---
