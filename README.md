@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The greatest doer must also be a great dreamer." - **Josh Waitzkin**
+   "People have the illusion that all over the world, all the time, all kinds of fantastic things are happening." - **Dan Millman**
 </marquee>
 
 ---
