@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People have the illusion that all over the world, all the time, all kinds of fantastic things are happening." - **Dan Millman**
+   "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." - **Steve Harvey**
 </marquee>
 
 ---
