@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." - **Steve Harvey**
+   "I believe that potential is unlimited - success depends on daring to act on dreams.   " - **Lolly Daskal**
 </marquee>
 
 ---
