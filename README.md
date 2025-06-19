@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I believe that potential is unlimited - success depends on daring to act on dreams.   " - **Lolly Daskal**
+   "Till it has loved, no man or woman can become itself." - **Celestine Chua**
 </marquee>
 
 ---
