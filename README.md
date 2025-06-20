@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Till it has loved, no man or woman can become itself." - **Celestine Chua**
+   "Just do the best you can. No one can do more than that." - **Lao Tzu**
 </marquee>
 
 ---
