@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Just do the best you can. No one can do more than that." - **Lao Tzu**
+   "Plants grow weak without wind." - **Henry Ward Beecher**
 </marquee>
 
 ---
