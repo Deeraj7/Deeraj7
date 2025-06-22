@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Plants grow weak without wind." - **Henry Ward Beecher**
+   "Manifest plainness, embrace simplicity, reduce selfishness, have few desires." - **Kamal Ravikant**
 </marquee>
 
 ---
