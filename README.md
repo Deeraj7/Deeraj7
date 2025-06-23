@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Manifest plainness, embrace simplicity, reduce selfishness, have few desires." - **Kamal Ravikant**
+   "We're responsible for everything that happens to us." - **Norman Vincent Peale**
 </marquee>
 
 ---
