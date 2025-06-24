@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We're responsible for everything that happens to us." - **Norman Vincent Peale**
+   "No man can get rich himself unless he enriches others." - **Roy T. Bennett**
 </marquee>
 
 ---
