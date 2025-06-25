@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No man can get rich himself unless he enriches others." - **Roy T. Bennett**
+   "Show me a hero, and I'll write you a tragedy." - **Eckhart Tolle**
 </marquee>
 
 ---
