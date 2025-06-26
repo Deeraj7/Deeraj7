@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Show me a hero, and I'll write you a tragedy." - **Eckhart Tolle**
+   "Good, better, best. Never let it rest. 'Til your good is better and your better is best. " - **G.I. Gurdjieff**
 </marquee>
 
 ---
