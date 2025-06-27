@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Good, better, best. Never let it rest. 'Til your good is better and your better is best. " - **G.I. Gurdjieff**
+   "Nothing is too high for a man to reach, but he must climb with care and confidence" - **Paramahansa Yogananda**
 </marquee>
 
 ---
