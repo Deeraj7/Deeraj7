@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing is too high for a man to reach, but he must climb with care and confidence" - **Paramahansa Yogananda**
+   "The only way to 'find out if it will work out' is to do it." - **Og Mandino**
 </marquee>
 
 ---
