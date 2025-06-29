@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The only way to 'find out if it will work out' is to do it." - **Og Mandino**
+   "It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - **Paulo Coelho**
 </marquee>
 
 ---
