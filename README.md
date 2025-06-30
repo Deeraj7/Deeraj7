@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - **Paulo Coelho**
+   "Things may come to those who wait, but only the things left by those who hustle." - **Zen Proverb**
 </marquee>
 
 ---
