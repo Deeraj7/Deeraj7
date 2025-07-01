@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Things may come to those who wait, but only the things left by those who hustle." - **Zen Proverb**
+   "It is impossible for a man to learn what he thinks he already knows." - **Audrey Hepburn**
 </marquee>
 
 ---
