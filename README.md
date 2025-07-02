@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is impossible for a man to learn what he thinks he already knows." - **Audrey Hepburn**
+   "Knowledge is learning something everyday. Wisdom is letting go of something everyday." - **Dogen**
 </marquee>
 
 ---
