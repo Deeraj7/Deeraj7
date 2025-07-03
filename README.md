@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Knowledge is learning something everyday. Wisdom is letting go of something everyday." - **Dogen**
+   "If they wrote it to make money, don't read it." - **Alan Watts**
 </marquee>
 
 ---
