@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If they wrote it to make money, don't read it." - **Alan Watts**
+   "Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death." - **Kabir**
 </marquee>
 
 ---
