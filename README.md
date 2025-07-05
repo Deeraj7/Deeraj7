@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death." - **Kabir**
+   "We turn not older with years but newer every day." - **Carlos Ruiz Zafon**
 </marquee>
 
 ---
