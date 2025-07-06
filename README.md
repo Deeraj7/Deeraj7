@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We turn not older with years but newer every day." - **Carlos Ruiz Zafon**
+   "Age is a very high price to pay for maturity." - **Charles Spurgeon**
 </marquee>
 
 ---
