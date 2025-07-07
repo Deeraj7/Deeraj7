@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Age is a very high price to pay for maturity." - **Charles Spurgeon**
+   "We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " - **Euripides**
 </marquee>
 
 ---
