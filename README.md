@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " - **Euripides**
+   "Being wrong opens us up to the possibility of change." - **Peter Drucker**
 </marquee>
 
 ---
