@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Being wrong opens us up to the possibility of change." - **Peter Drucker**
+   "No man can get rich himself unless he enriches others." - **Maxime Lagace**
 </marquee>
 
 ---
