@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No man can get rich himself unless he enriches others." - **Maxime Lagace**
+   "Either write something worth reading or do something worth writing." - **Tony Robbins**
 </marquee>
 
 ---
