@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Either write something worth reading or do something worth writing." - **Tony Robbins**
+   "I no doubt deserved my enemies, but I don't believe I deserved my friends." - **Pema Chodron**
 </marquee>
 
 ---
