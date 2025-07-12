@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I no doubt deserved my enemies, but I don't believe I deserved my friends." - **Pema Chodron**
+   "Live the moment for the moment." - **St. Jerome**
 </marquee>
 
 ---
