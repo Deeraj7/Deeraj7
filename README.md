@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Live the moment for the moment." - **St. Jerome**
+   "Every strike brings me closer to the next home run. " - **Albert Einstein**
 </marquee>
 
 ---
