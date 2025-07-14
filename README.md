@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every strike brings me closer to the next home run. " - **Albert Einstein**
+   "Happiness is not the absence of problems, it's the ability to deal with them." - **Mark Twain**
 </marquee>
 
 ---
