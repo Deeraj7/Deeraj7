@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness is not the absence of problems, it's the ability to deal with them." - **Mark Twain**
+   "Learn only how to avoid seeking for and attaching yourselves to anything." - **Mary Engelbreit**
 </marquee>
 
 ---
