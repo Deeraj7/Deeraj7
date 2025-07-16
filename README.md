@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Learn only how to avoid seeking for and attaching yourselves to anything." - **Mary Engelbreit**
+   "Opportunities multiply as they are seized." - **Aristotle**
 </marquee>
 
 ---
