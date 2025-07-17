@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Opportunities multiply as they are seized." - **Aristotle**
+   "The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." - **Martin Luther**
 </marquee>
 
 ---
