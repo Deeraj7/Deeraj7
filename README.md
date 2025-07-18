@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The first rule of handling conflict is don't hang around people who are constantly engaging in conflict." - **Martin Luther**
+   "There are few reasons for telling the truth, but for lying the number is infinite." - **Chinese Proverb**
 </marquee>
 
 ---
