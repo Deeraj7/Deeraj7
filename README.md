@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There are few reasons for telling the truth, but for lying the number is infinite." - **Chinese Proverb**
+   "You can't have anything worthwhile without difficulties." - **John Wooden**
 </marquee>
 
 ---
