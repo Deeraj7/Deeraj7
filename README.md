@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can't have anything worthwhile without difficulties." - **John Wooden**
+   "The world doesn't owe you anything. It was here first." - **Dogen**
 </marquee>
 
 ---
