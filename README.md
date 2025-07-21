@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The world doesn't owe you anything. It was here first." - **Dogen**
+   "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." - **J.R.R. Tolkien**
 </marquee>
 
 ---
