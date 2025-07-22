@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." - **J.R.R. Tolkien**
+   "Meditate. It won't be fun but it will surface what you need to deal with." - **James Allen**
 </marquee>
 
 ---
