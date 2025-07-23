@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Meditate. It won't be fun but it will surface what you need to deal with." - **James Allen**
+   "The attempt to escape from pain, is what creates more pain." - **James Matthew Barrie**
 </marquee>
 
 ---
