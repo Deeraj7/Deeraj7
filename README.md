@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The attempt to escape from pain, is what creates more pain." - **James Matthew Barrie**
+   "Tension is who you think you should be. Relaxation is who you are." - **Carlos Ruiz Zafon**
 </marquee>
 
 ---
