@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Tension is who you think you should be. Relaxation is who you are." - **Carlos Ruiz Zafon**
+   "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." - **Colin Powell**
 </marquee>
 
 ---
