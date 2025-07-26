@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." - **Colin Powell**
+   "People spend too much time doing and not enough time thinking about what they should be doing." - **Lolly Daskal**
 </marquee>
 
 ---
