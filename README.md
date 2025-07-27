@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People spend too much time doing and not enough time thinking about what they should be doing." - **Lolly Daskal**
+   "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time." - **Paramahansa Yogananda**
 </marquee>
 
 ---
