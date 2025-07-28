@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time." - **Paramahansa Yogananda**
+   "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - **Abraham Lincoln**
 </marquee>
 
 ---
