@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." - **Abraham Lincoln**
+   "He is richest who is content with the least, for content is the wealth of nature." - **Harry S. Truman**
 </marquee>
 
 ---
