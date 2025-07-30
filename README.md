@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "He is richest who is content with the least, for content is the wealth of nature." - **Harry S. Truman**
+   "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." - **Elbert Hubbard**
 </marquee>
 
 ---
