@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The truth is not for all men, but for those who seek it." - **Brian Tracy**
+   "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time." - **Voltaire**
 </marquee>
 
 ---
