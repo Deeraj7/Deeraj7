@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Do not stop thinking of life as an adventure." - **Isaac Newton**
+   "A man with outward courage dares to die: a man with inner courage dares to live." - **Helen Keller**
 </marquee>
 
 ---
