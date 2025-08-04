@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A man with outward courage dares to die: a man with inner courage dares to live." - **Helen Keller**
+   "The scariest moment is always just before you start. After that, things can only get better." - **Robin Sharma**
 </marquee>
 
 ---
