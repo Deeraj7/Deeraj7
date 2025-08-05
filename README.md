@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The scariest moment is always just before you start. After that, things can only get better." - **Robin Sharma**
+   "Happiness depends on your mindset and attitude." - **Henry Ward Beecher**
 </marquee>
 
 ---
