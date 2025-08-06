@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness depends on your mindset and attitude." - **Henry Ward Beecher**
+   "All religions, arts and sciences are branches of the same tree. " - **Steve Jobs**
 </marquee>
 
 ---
