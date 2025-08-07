@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All religions, arts and sciences are branches of the same tree. " - **Steve Jobs**
+   "You came empty handed, and you will leave empty handed." - **T.S. Eliot**
 </marquee>
 
 ---
