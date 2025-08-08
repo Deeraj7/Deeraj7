@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You came empty handed, and you will leave empty handed." - **T.S. Eliot**
+   "Most people get ahead during the time that others waste." - **James Allen**
 </marquee>
 
 ---
