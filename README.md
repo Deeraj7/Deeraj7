@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Most people get ahead during the time that others waste." - **James Allen**
+   "You know the more one does the more one can do." - **Deepak Chopra**
 </marquee>
 
 ---
