@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You know the more one does the more one can do." - **Deepak Chopra**
+   "No matter what happens in life, never lose sight of who you are." - **Paulo Coelho**
 </marquee>
 
 ---
