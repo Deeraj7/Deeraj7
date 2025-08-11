@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No matter what happens in life, never lose sight of who you are." - **Paulo Coelho**
+   "People think about what they don't want and attract more of the same." - **Celestine Chua**
 </marquee>
 
 ---
