@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People think about what they don't want and attract more of the same." - **Celestine Chua**
+   "A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board." - **Winston Churchill**
 </marquee>
 
 ---
