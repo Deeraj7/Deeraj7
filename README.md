@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board." - **Winston Churchill**
+   "Rest in reason; move in passion." - **Euripides**
 </marquee>
 
 ---
