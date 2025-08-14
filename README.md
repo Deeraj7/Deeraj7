@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Rest in reason; move in passion." - **Euripides**
+   "Always be a first-rate version of yourself, instead of a second-rate version of someone else." - **Mahatma Gandhi**
 </marquee>
 
 ---
