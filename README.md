@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The most effective way to do it, is to do it." - **Zig Ziglar**
+   "If you see a get rich quick scheme, that's someone else trying to get rich off of you." - **Aristophanes**
 </marquee>
 
 ---
