@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you see a get rich quick scheme, that's someone else trying to get rich off of you." - **Aristophanes**
+   "The greatest treasures are those invisible to the eye but found by the heart." - **Aristotle**
 </marquee>
 
 ---
