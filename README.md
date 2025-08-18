@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The greatest treasures are those invisible to the eye but found by the heart." - **Aristotle**
+   "The one who boasts does so only out of a feeling of inferiority." - **Dale Carnegie**
 </marquee>
 
 ---
