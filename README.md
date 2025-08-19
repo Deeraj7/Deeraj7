@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The one who boasts does so only out of a feeling of inferiority." - **Dale Carnegie**
+   "No one has ever become poor by giving." - **Euripides**
 </marquee>
 
 ---
