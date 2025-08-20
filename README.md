@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No one has ever become poor by giving." - **Euripides**
+   "If you can't feed a hundred people, then feed just one." - **W. Clement Stone**
 </marquee>
 
 ---
