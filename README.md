@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you can't feed a hundred people, then feed just one." - **W. Clement Stone**
+   "The Only Thing That Is Constant Is Change" - **Mother Teresa**
 </marquee>
 
 ---
