@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The Only Thing That Is Constant Is Change" - **Mother Teresa**
+   "Make yourself so useful to other people, that they think you are irreplaceable." - **Henry Ward Beecher**
 </marquee>
 
 ---
