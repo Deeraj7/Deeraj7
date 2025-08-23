@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make yourself so useful to other people, that they think you are irreplaceable." - **Henry Ward Beecher**
+   "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - **Herodotus**
 </marquee>
 
 ---
