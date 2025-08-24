@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - **Herodotus**
+   "A man is literally what he thinks." - **John Wooden**
 </marquee>
 
 ---
