@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A man is literally what he thinks." - **John Wooden**
+   "At the center of your being you have the answer; you know who you are and you know what you want." - **Napoleon Hill**
 </marquee>
 
 ---
