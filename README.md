@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "At the center of your being you have the answer; you know who you are and you know what you want." - **Napoleon Hill**
+   "Live and act within the limit of your knowledge and keep expanding it to the limit of your life." - **John Eliot**
 </marquee>
 
 ---
