@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Live and act within the limit of your knowledge and keep expanding it to the limit of your life." - **John Eliot**
+   "Exceptional thinkers ignore their critics and go about their business making history." - **Bob Proctor**
 </marquee>
 
 ---
