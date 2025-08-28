@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Exceptional thinkers ignore their critics and go about their business making history." - **Bob Proctor**
+   "The greatest of all mistakes is to do nothing because you think you can only do a little.  " - **Mother Teresa**
 </marquee>
 
 ---
