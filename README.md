@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The greatest of all mistakes is to do nothing because you think you can only do a little.  " - **Mother Teresa**
+   "Nothing like a health problem to turn up the contrast dial for the rest of life." - **Michael Jordan**
 </marquee>
 
 ---
