@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing like a health problem to turn up the contrast dial for the rest of life." - **Michael Jordan**
+   "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." - **Chinese Proverb**
 </marquee>
 
 ---
