@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Duty makes us do things well, but love makes us do them beautifully.  " - **Roy T. Bennett**
+   "Good entrepreneurs don't fail because they stay at it." - **Maxime Lagace**
 </marquee>
 
 ---
