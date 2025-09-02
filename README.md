@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Good entrepreneurs don't fail because they stay at it." - **Maxime Lagace**
+   "You can, you should, and if you're brave enough to start, you will." - **Niccolo Machiavelli**
 </marquee>
 
 ---
