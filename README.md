@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can, you should, and if you're brave enough to start, you will." - **Niccolo Machiavelli**
+   "The happiest people in the world are those who feel absolutely terrific about themselves." - **W.P. Kinsella**
 </marquee>
 
 ---
