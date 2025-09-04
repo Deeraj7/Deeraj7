@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The happiest people in the world are those who feel absolutely terrific about themselves." - **W.P. Kinsella**
+   "Everyone sees what you appear to be, few experience what you really are." - **Norman Vincent Peale**
 </marquee>
 
 ---
