@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Everyone sees what you appear to be, few experience what you really are." - **Norman Vincent Peale**
+   "Truth is like most opinions - best unexpressed." - **John D. Rockefeller**
 </marquee>
 
 ---
