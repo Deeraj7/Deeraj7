@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Truth is like most opinions - best unexpressed." - **John D. Rockefeller**
+   "Go for it now. The future is promised to no one. " - **Jiddu Krishnamurti**
 </marquee>
 
 ---
