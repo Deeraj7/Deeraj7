@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Go for it now. The future is promised to no one. " - **Jiddu Krishnamurti**
+   "The important thing is not what one is born with but what use one makes of that equipment." - **Deepak Chopra**
 </marquee>
 
 ---
