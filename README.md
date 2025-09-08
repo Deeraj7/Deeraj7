@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The important thing is not what one is born with but what use one makes of that equipment." - **Deepak Chopra**
+   "The truly rich men are the ones who have health, loved ones and a work they love." - **Winston Churchill**
 </marquee>
 
 ---
