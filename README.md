@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The truly rich men are the ones who have health, loved ones and a work they love." - **Winston Churchill**
+   "You can't let your failures define you. You have to let your failures teach you." - **Pema Chodron**
 </marquee>
 
 ---
