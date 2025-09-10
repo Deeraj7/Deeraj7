@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can't let your failures define you. You have to let your failures teach you." - **Pema Chodron**
+   "Being ignorant is not so much a shame, as being unwilling to learn." - **Jon Kabat-Zinn**
 </marquee>
 
 ---
