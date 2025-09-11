@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Being ignorant is not so much a shame, as being unwilling to learn." - **Jon Kabat-Zinn**
+   "Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." - **Roy T. Bennett**
 </marquee>
 
 ---
