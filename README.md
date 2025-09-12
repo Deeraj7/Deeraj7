@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." - **Roy T. Bennett**
+   "The mind is the limit." - **Henry Ford**
 </marquee>
 
 ---
