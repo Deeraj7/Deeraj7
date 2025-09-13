@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The mind is the limit." - **Henry Ford**
+   "Troubles are often the tools by which God fashions us for better things." - **Paulo Coelho**
 </marquee>
 
 ---
