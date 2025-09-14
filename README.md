@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Troubles are often the tools by which God fashions us for better things." - **Paulo Coelho**
+   "What you do today can improve all your tomorrows." - **Steve Harvey**
 </marquee>
 
 ---
