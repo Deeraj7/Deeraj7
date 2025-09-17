@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are your best thing." - **Lin Yutang**
+   "We learn to walk by falling down. If we never fell down, we would never walk." - **Roy T. Bennett**
 </marquee>
 
 ---
