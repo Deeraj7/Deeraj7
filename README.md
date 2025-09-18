@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We learn to walk by falling down. If we never fell down, we would never walk." - **Roy T. Bennett**
+   "Time is a game played beautifully by children." - **Norman Vincent Peale**
 </marquee>
 
 ---
