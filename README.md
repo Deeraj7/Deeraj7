@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Time is a game played beautifully by children." - **Norman Vincent Peale**
+   "The joy of life comes from our encounters with new experiences." - **Christopher Reeve**
 </marquee>
 
 ---
