@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The joy of life comes from our encounters with new experiences." - **Christopher Reeve**
+   "You're on earth. There's no cure for that." - **John D. Rockefeller**
 </marquee>
 
 ---
