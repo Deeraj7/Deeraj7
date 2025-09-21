@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You're on earth. There's no cure for that." - **John D. Rockefeller**
+   "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible." - **Mark Manson**
 </marquee>
 
 ---
