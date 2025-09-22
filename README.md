@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible." - **Mark Manson**
+   "Whatever happens always happens on time." - **Mark Twain**
 </marquee>
 
 ---
