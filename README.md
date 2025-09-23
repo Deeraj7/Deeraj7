@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Whatever happens always happens on time." - **Mark Twain**
+   "If I cannot do great things. I can do small things in a great way." - **Unknown**
 </marquee>
 
 ---
