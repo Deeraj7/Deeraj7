@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If I cannot do great things. I can do small things in a great way." - **Unknown**
+   "The time is now, the place is here. Stay in the present." - **Vince Lombardi**
 </marquee>
 
 ---
