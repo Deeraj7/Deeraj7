@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The time is now, the place is here. Stay in the present." - **Vince Lombardi**
+   "Words are the clothing of our thoughts." - **Kahlil Gibran**
 </marquee>
 
 ---
