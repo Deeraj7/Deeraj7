@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Words are the clothing of our thoughts." - **Kahlil Gibran**
+   "Nothing can bring you peace but yourself." - **Arnold Schwarzenegger**
 </marquee>
 
 ---
