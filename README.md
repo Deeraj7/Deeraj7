@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing can bring you peace but yourself." - **Arnold Schwarzenegger**
+   "We must have strong minds, ready to accept facts as they are." - **J.R.R. Tolkien**
 </marquee>
 
 ---
