@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We must have strong minds, ready to accept facts as they are." - **J.R.R. Tolkien**
+   "Your dream has to be bigger than your fear." - **Euripides**
 </marquee>
 
 ---
