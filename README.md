@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your dream has to be bigger than your fear." - **Euripides**
+   "All men who have achieved great things have been great dreamers. " - **Unknown**
 </marquee>
 
 ---
