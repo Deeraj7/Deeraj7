@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All men who have achieved great things have been great dreamers. " - **Unknown**
+   "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." - **Bob Proctor**
 </marquee>
 
 ---
