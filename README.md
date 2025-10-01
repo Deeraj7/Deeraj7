@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." - **Bob Proctor**
+   "Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." - **Robert Kiyosaki**
 </marquee>
 
 ---
