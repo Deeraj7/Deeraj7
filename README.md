@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." - **Robert Kiyosaki**
+   "Is it really possible to tell someone else what one feels?" - **Soren Kierkegaard**
 </marquee>
 
 ---
