@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can tell more about a person by what he says about others than you can by what others say about him." - **Mark Manson**
+   "Success is the sum of small efforts, repeated day in and day out." - **Jim Rohn**
 </marquee>
 
 ---
