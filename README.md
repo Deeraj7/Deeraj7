@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is the sum of small efforts, repeated day in and day out." - **Jim Rohn**
+   "Turn off your mind, relax, and float downstream." - **Zhuangzi**
 </marquee>
 
 ---
