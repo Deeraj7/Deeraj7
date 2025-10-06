@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Turn off your mind, relax, and float downstream." - **Zhuangzi**
+   "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better." - **Edgar Allan Poe**
 </marquee>
 
 ---
