@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No need to hurry. No need to sparkle. No need to be anybody but oneself." - **Henry Ward Beecher**
+   "Life is 10% what happens to you and 90% how you react to it. " - **Arnold Schwarzenegger**
 </marquee>
 
 ---
