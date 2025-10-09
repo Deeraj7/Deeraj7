@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is 10% what happens to you and 90% how you react to it. " - **Arnold Schwarzenegger**
+   "Vision is the art of seeing things invisible." - **Audrey Hepburn**
 </marquee>
 
 ---
