@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Vision is the art of seeing things invisible." - **Audrey Hepburn**
+   "The best time to plant a tree was 20 years ago. The second best time is now." - **Criss Jami**
 </marquee>
 
 ---
