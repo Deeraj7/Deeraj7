@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The best time to plant a tree was 20 years ago. The second best time is now." - **Criss Jami**
+   "Life is the art of drawing sufficient conclusions from insufficient premises." - **Kahlil Gibran**
 </marquee>
 
 ---
