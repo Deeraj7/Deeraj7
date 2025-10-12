@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is the art of drawing sufficient conclusions from insufficient premises." - **Kahlil Gibran**
+   "Kindness is a language which the deaf can hear and the blind can see." - **William James**
 </marquee>
 
 ---
