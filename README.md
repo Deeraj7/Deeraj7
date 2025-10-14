@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you can't, you must. If you must, you can." - **Criss Jami**
+   "Make each day your masterpiece." - **Earl Nightingale**
 </marquee>
 
 ---
