@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make each day your masterpiece." - **Earl Nightingale**
+   "The strongest and sweetest songs yet remain to be sung." - **Lily Tomlin**
 </marquee>
 
 ---
