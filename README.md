@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The strongest and sweetest songs yet remain to be sung." - **Lily Tomlin**
+   "Study logic and math, because once you've mastered them, you won't fear any book." - **Theodore Roosevelt**
 </marquee>
 
 ---
