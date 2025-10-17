@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Study logic and math, because once you've mastered them, you won't fear any book." - **Theodore Roosevelt**
+   "Preoccupied with a single leaf you won't see the tree." - **Criss Jami**
 </marquee>
 
 ---
