@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Preoccupied with a single leaf you won't see the tree." - **Criss Jami**
+   "Opportunities don't often come along. So, when they do, you have to grab them." - **Criss Jami**
 </marquee>
 
 ---
