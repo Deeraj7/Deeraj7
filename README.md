@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Opportunities don't often come along. So, when they do, you have to grab them." - **Criss Jami**
+   "Common sense is not so common. " - **Chinese Proverb**
 </marquee>
 
 ---
