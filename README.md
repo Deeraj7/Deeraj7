@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." - **Aristotle**
+   "Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking." - **Simon Sinek**
 </marquee>
 
 ---
