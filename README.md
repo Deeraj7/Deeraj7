@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking." - **Simon Sinek**
+   "However difficult life may seem, there is always something you can do and succeed at." - **Og Mandino**
 </marquee>
 
 ---
