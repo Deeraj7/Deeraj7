@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "However difficult life may seem, there is always something you can do and succeed at." - **Og Mandino**
+   "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness." - **Robert Greene**
 </marquee>
 
 ---
