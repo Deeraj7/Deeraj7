@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness." - **Robert Greene**
+   "It's not about what it is, it's about what it can become." - **Alfred Adler**
 </marquee>
 
 ---
