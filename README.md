@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's not about what it is, it's about what it can become." - **Alfred Adler**
+   "Real learning comes about when the competitive spirit has ceased." - **Naval Ravikant**
 </marquee>
 
 ---
