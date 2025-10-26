@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Real learning comes about when the competitive spirit has ceased." - **Naval Ravikant**
+   "You can live a whole life time never being awake." - **Eleanor Roosevelt**
 </marquee>
 
 ---
