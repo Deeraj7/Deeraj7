@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can live a whole life time never being awake." - **Eleanor Roosevelt**
+   "We win by helping each other win." - **Ronald Reagan**
 </marquee>
 
 ---
