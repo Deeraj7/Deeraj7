@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We win by helping each other win." - **Ronald Reagan**
+   "Honor is the foundation of courage." - **Leo Tolstoy**
 </marquee>
 
 ---
