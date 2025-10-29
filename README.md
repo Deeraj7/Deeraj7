@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Honor is the foundation of courage." - **Leo Tolstoy**
+   "For your life to be great, your faith must be bigger than your fear." - **Miguel de Cervantes**
 </marquee>
 
 ---
