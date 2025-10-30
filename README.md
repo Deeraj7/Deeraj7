@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "For your life to be great, your faith must be bigger than your fear." - **Miguel de Cervantes**
+   "Animals don't hate, and we're supposed to be better than them." - **Nicolas Chamfort**
 </marquee>
 
 ---
