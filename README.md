@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Animals don't hate, and we're supposed to be better than them." - **Nicolas Chamfort**
+   "Where there is anger, there is always pain underneath." - **Samuel Beckett**
 </marquee>
 
 ---
