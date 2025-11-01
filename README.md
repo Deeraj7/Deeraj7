@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Where there is anger, there is always pain underneath." - **Samuel Beckett**
+   "Talk sense to a fool and he calls you foolish." - **Walt Whitman**
 </marquee>
 
 ---
