@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Talk sense to a fool and he calls you foolish." - **Walt Whitman**
+   "Your next step is simple. You are the first domino." - **Herbert Hoover**
 </marquee>
 
 ---
