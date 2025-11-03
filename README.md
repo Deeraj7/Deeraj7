@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your next step is simple. You are the first domino." - **Herbert Hoover**
+   "Most of us will do anything to avoid facing ourselves." - **St. Jerome**
 </marquee>
 
 ---
