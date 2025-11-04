@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Most of us will do anything to avoid facing ourselves." - **St. Jerome**
+   "I've always lived in the moment." - **Mae West**
 </marquee>
 
 ---
