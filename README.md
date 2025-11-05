@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I've always lived in the moment." - **Mae West**
+   "Nothing like a health problem to turn up the contrast dial for the rest of life." - **Eckhart Tolle**
 </marquee>
 
 ---
