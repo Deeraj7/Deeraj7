@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing like a health problem to turn up the contrast dial for the rest of life." - **Eckhart Tolle**
+   "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - **Sydney Smith**
 </marquee>
 
 ---
