@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - **Sydney Smith**
+   "If ever you feel like an animal among men, be a lion." - **Jonathan Swift**
 </marquee>
 
 ---
