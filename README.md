@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If ever you feel like an animal among men, be a lion." - **Jonathan Swift**
+   "In nature there is no alienation. Everything belongs." - **Criss Jami**
 </marquee>
 
 ---
