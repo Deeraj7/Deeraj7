@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In nature there is no alienation. Everything belongs." - **Criss Jami**
+   "Knowledge has to be improved, challenged, and increased constantly, or it vanishes." - **Og Mandino**
 </marquee>
 
 ---
