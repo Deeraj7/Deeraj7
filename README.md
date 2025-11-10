@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Knowledge has to be improved, challenged, and increased constantly, or it vanishes." - **Og Mandino**
+   "Most people fail in life not because they aim too high and miss, but because they aim too low and hit." - **Stephen Hawking**
 </marquee>
 
 ---
