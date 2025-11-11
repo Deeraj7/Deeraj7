@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Most people fail in life not because they aim too high and miss, but because they aim too low and hit." - **Stephen Hawking**
+   "The desire for more positive experience is itself a negative experience." - **Stephen King**
 </marquee>
 
 ---
