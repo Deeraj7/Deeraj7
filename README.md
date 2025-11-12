@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The desire for more positive experience is itself a negative experience." - **Stephen King**
+   "Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. " - **Isaac Newton**
 </marquee>
 
 ---
