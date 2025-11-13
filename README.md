@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. " - **Isaac Newton**
+   "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - **Chinese Proverb**
 </marquee>
 
 ---
