@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." - **Chinese Proverb**
+   "The happiest people in the world are those who feel absolutely terrific about themselves." - **Zig Ziglar**
 </marquee>
 
 ---
