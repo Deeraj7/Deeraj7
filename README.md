@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The happiest people in the world are those who feel absolutely terrific about themselves." - **Zig Ziglar**
+   "Always seek out the seed of triumph in every adversity." - **Margaret Mead**
 </marquee>
 
 ---
