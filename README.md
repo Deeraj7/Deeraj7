@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars." - **Harry S. Truman**
+   "When you are content to be simply yourself and don't compare or compete, everybody will respect you. " - **Amelia Earhart**
 </marquee>
 
 ---
