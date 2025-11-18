@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you are content to be simply yourself and don't compare or compete, everybody will respect you. " - **Amelia Earhart**
+   "Blessed is he who expects nothing, for he shall never be disappointed." - **Steve Harvey**
 </marquee>
 
 ---
