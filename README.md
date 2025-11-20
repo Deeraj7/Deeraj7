@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." - **Oprah Winfrey**
+   "Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." - **Alan Watts**
 </marquee>
 
 ---
