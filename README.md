@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." - **Alan Watts**
+   "We suffer more often in imagination than in reality." - **Dan Millman**
 </marquee>
 
 ---
