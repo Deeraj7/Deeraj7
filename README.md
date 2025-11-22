@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We suffer more often in imagination than in reality." - **Dan Millman**
+   "The first step toward getting somewhere is to decide that you are not going to stay where you are." - **Brian Tracy**
 </marquee>
 
 ---
