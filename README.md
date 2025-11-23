@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The first step toward getting somewhere is to decide that you are not going to stay where you are." - **Brian Tracy**
+   "One of the keys to happiness is a bad memory." - **Brian Tracy**
 </marquee>
 
 ---
