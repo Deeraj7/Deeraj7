@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "One of the keys to happiness is a bad memory." - **Brian Tracy**
+   "Not all those who wander are lost." - **Edgar Allan Poe**
 </marquee>
 
 ---
