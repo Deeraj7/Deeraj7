@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Not all those who wander are lost." - **Edgar Allan Poe**
+   "Desire for the fruits of work must never be your motive in working." - **Oprah Winfrey**
 </marquee>
 
 ---
