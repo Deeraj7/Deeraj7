@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Desire for the fruits of work must never be your motive in working." - **Oprah Winfrey**
+   "Don´t hesitate or allow yourself to make excuses. Just get out and do it." - **Marcus Aurelius**
 </marquee>
 
 ---
