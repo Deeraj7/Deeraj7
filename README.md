@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don´t hesitate or allow yourself to make excuses. Just get out and do it." - **Marcus Aurelius**
+   "Appear weak when you are strong, and strong when you are weak." - **Kamal Ravikant**
 </marquee>
 
 ---
