@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Appear weak when you are strong, and strong when you are weak." - **Kamal Ravikant**
+   "One's best success comes after their greatest disappointments." - **Coco Chanel**
 </marquee>
 
 ---
