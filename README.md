@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "One's best success comes after their greatest disappointments." - **Coco Chanel**
+   "Love is the absence of judgment." - **Adi Da Samraj**
 </marquee>
 
 ---
