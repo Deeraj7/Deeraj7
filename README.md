@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Love is the absence of judgment." - **Adi Da Samraj**
+   "Listen to the secret sound, the real sound, which is inside you." - **Charles Darwin**
 </marquee>
 
 ---
