@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Listen to the secret sound, the real sound, which is inside you." - **Charles Darwin**
+   "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. " - **Carol Burnett**
 </marquee>
 
 ---
