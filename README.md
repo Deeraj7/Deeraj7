@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. " - **Carol Burnett**
+   "Do it with passion, or not at all." - **Socrates**
 </marquee>
 
 ---
