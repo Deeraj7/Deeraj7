@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Do it with passion, or not at all." - **Socrates**
+   "Life can be wonderful if you're not afraid of it." - **Hans Christian Andersen**
 </marquee>
 
 ---
