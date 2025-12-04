@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life can be wonderful if you're not afraid of it." - **Hans Christian Andersen**
+   "Life belongs to the living, and he who lives must be prepared for changes." - **James Allen**
 </marquee>
 
 ---
