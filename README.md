@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life belongs to the living, and he who lives must be prepared for changes." - **James Allen**
+   "Don't ever save anything for a special occasion. Being alive is the special occasion." - **Lao Tzu**
 </marquee>
 
 ---
