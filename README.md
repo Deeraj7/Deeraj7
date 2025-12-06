@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't ever save anything for a special occasion. Being alive is the special occasion." - **Lao Tzu**
+   "Winning isn't always championships." - **Mother Teresa**
 </marquee>
 
 ---
