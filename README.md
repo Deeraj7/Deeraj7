@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Winning isn't always championships." - **Mother Teresa**
+   "Real loss is only possible when you love something more than you love yourself." - **Ming-Dao Deng**
 </marquee>
 
 ---
