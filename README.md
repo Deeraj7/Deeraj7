@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Real loss is only possible when you love something more than you love yourself." - **Ming-Dao Deng**
+   "The way to change others' minds is with affection, and not anger." - **Mahatma Gandhi**
 </marquee>
 
 ---
