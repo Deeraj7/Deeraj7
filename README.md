@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The way to change others' minds is with affection, and not anger." - **Mahatma Gandhi**
+   "The only people without problems are those in cemeteries." - **James Matthew Barrie**
 </marquee>
 
 ---
