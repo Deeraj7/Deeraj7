@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The only people without problems are those in cemeteries." - **James Matthew Barrie**
+   "The past has no power over the present moment. " - **Vaclav Havel**
 </marquee>
 
 ---
