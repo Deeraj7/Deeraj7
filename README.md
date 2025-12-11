@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The past has no power over the present moment. " - **Vaclav Havel**
+   "When you win, say nothing, when you lose say less." - **Alexandre Dumas**
 </marquee>
 
 ---
