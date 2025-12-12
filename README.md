@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you win, say nothing, when you lose say less." - **Alexandre Dumas**
+   "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." - **Rumi**
 </marquee>
 
 ---
