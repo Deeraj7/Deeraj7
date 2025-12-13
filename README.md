@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." - **Rumi**
+   "A little impatience will spoil great plans." - **Christopher Reeve**
 </marquee>
 
 ---
