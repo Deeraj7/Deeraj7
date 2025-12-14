@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A little impatience will spoil great plans." - **Christopher Reeve**
+   "Chop your own wood and it will warm you twice. " - **Albert Einstein**
 </marquee>
 
 ---
