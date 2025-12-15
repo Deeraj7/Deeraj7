@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Chop your own wood and it will warm you twice. " - **Albert Einstein**
+   "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore." - **Isaac Newton**
 </marquee>
 
 ---
