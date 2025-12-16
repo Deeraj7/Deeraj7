@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore." - **Isaac Newton**
+   "Imagination is the true magic carpet." - **Samuel Butler**
 </marquee>
 
 ---
