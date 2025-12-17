@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Imagination is the true magic carpet." - **Samuel Butler**
+   "When a man is penalized for honesty he learns to lie." - **Sonia Ricotti**
 </marquee>
 
 ---
