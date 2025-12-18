@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When a man is penalized for honesty he learns to lie." - **Sonia Ricotti**
+   "Success is getting what you want. Happiness is wanting what you get." - **W.P. Kinsella**
 </marquee>
 
 ---
