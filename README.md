@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is getting what you want. Happiness is wanting what you get." - **W.P. Kinsella**
+   "Muddy water is best cleared by leaving it alone." - **Heraclitus**
 </marquee>
 
 ---
