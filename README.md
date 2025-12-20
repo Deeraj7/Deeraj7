@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Muddy water is best cleared by leaving it alone." - **Heraclitus**
+   "People should pursue what they're passionate about. That will make them happier than pretty much anything else." - **Emily Dickinson**
 </marquee>
 
 ---
