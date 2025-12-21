@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People should pursue what they're passionate about. That will make them happier than pretty much anything else." - **Emily Dickinson**
+   "However difficult life may seem, there is always something you can do and succeed at." - **Euripides**
 </marquee>
 
 ---
