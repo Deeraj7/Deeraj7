@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "However difficult life may seem, there is always something you can do and succeed at." - **Euripides**
+   "You must find the place inside yourself where nothing is impossible." - **Robert F. Kennedy**
 </marquee>
 
 ---
