@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You must find the place inside yourself where nothing is impossible." - **Robert F. Kennedy**
+   "If everyone is moving forward together, then success takes care of itself." - **Franklin D. Roosevelt**
 </marquee>
 
 ---
