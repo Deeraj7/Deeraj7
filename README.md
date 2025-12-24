@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If everyone is moving forward together, then success takes care of itself." - **Franklin D. Roosevelt**
+   "Your goals are the road maps that guide you and show you what is possible for your life." - **Eckhart Tolle**
 </marquee>
 
 ---
