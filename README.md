@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your goals are the road maps that guide you and show you what is possible for your life." - **Eckhart Tolle**
+   "No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain." - **Nikola Tesla**
 </marquee>
 
 ---
