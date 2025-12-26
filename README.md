@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain." - **Nikola Tesla**
+   "Don't let the past steal your present." - **Albus Dumbledore**
 </marquee>
 
 ---
