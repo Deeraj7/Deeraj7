@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't let the past steal your present." - **Albus Dumbledore**
+   "Life isn't about finding yourself. Life is about creating yourself." - **Norman Vincent Peale**
 </marquee>
 
 ---
