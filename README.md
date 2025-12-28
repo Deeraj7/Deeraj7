@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life isn't about finding yourself. Life is about creating yourself." - **Norman Vincent Peale**
+   "Inspire yourself to be great. Being good isn't good enough." - **Harry S. Truman**
 </marquee>
 
 ---
