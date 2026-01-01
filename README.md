@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There are no shortcuts to any place worth going." - **Morihei Ueshiba**
+   "Thoughts become things. If you see it in your mind, you will hold it in your hand." - **Carl Jung**
 </marquee>
 
 ---
