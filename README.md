@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Thoughts become things. If you see it in your mind, you will hold it in your hand." - **Carl Jung**
+   "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." - **Ralph Marston**
 </marquee>
 
 ---
