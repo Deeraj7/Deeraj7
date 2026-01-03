@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." - **Ralph Marston**
+   "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." - **Aristophanes**
 </marquee>
 
 ---
