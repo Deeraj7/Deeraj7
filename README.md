@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." - **Aristophanes**
+   "There are two kinds of perfect people: those who are dead, and those who have not been born yet." - **Jack Butcher**
 </marquee>
 
 ---
