@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There are two kinds of perfect people: those who are dead, and those who have not been born yet." - **Jack Butcher**
+   "Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " - **Brian Tracy**
 </marquee>
 
 ---
