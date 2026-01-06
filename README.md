@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " - **Brian Tracy**
+   "When you have to make a choice and don't make it, that is in itself a choice." - **Dalai Lama**
 </marquee>
 
 ---
