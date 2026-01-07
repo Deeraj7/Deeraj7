@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you have to make a choice and don't make it, that is in itself a choice." - **Dalai Lama**
+   "The degree of responsibility you take for your life determines how much change you can create in it." - **Pablo Picasso**
 </marquee>
 
 ---
