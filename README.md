@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The degree of responsibility you take for your life determines how much change you can create in it." - **Pablo Picasso**
+   "All you need is the plan, the road map, and the courage to press on to your destination." - **Lolly Daskal**
 </marquee>
 
 ---
