@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All you need is the plan, the road map, and the courage to press on to your destination." - **Lolly Daskal**
+   "Imagination is more important than knowledge." - **Rosa Nouchette Carey**
 </marquee>
 
 ---
