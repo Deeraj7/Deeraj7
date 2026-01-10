@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Imagination is more important than knowledge." - **Rosa Nouchette Carey**
+   "The best of us sometimes eat our words.  " - **Lao Tzu**
 </marquee>
 
 ---
