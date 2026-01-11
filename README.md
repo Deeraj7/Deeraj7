@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The best of us sometimes eat our words.  " - **Lao Tzu**
+   "Health is the greatest of all possessions." - **Paulo Coelho**
 </marquee>
 
 ---
