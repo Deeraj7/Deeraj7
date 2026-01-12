@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Health is the greatest of all possessions." - **Paulo Coelho**
+   "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking." - **Zen Proverb**
 </marquee>
 
 ---
