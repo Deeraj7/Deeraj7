@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking." - **Zen Proverb**
+   "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." - **Albert Einstein**
 </marquee>
 
 ---
