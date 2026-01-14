@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." - **Albert Einstein**
+   "Wise men speak because they have something to say; Fools because they have to say something." - **Earl Nightingale**
 </marquee>
 
 ---
