@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Wise men speak because they have something to say; Fools because they have to say something." - **Earl Nightingale**
+   "Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death." - **Colin Powell**
 </marquee>
 
 ---
