@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death." - **Colin Powell**
+   "Thinking is the hardest work there is, which is probably the reason why so few engage in it." - **Richard Bach**
 </marquee>
 
 ---
