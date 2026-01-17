@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Thinking is the hardest work there is, which is probably the reason why so few engage in it." - **Richard Bach**
+   "To the world you may be one person; but to one person you may be the world." - **Seneca**
 </marquee>
 
 ---
