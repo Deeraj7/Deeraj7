@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To the world you may be one person; but to one person you may be the world." - **Seneca**
+   "Life is not meant to be easy my child, but take courage: it can be delightful." - **Napoleon Hill**
 </marquee>
 
 ---
