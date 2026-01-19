@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is not meant to be easy my child, but take courage: it can be delightful." - **Napoleon Hill**
+   "Judge your success by what you had to give up in order to get it." - **Genghis Khan**
 </marquee>
 
 ---
