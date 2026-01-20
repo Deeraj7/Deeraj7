@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Judge your success by what you had to give up in order to get it." - **Genghis Khan**
+   "Humans and prosperity never endure side by side for long." - **George Eliot**
 </marquee>
 
 ---
