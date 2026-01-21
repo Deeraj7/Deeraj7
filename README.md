@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Humans and prosperity never endure side by side for long." - **George Eliot**
+   "Nothing good ever comes of violence." - **G.I. Gurdjieff**
 </marquee>
 
 ---
