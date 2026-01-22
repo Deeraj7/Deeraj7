@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing good ever comes of violence." - **G.I. Gurdjieff**
+   "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." - **Thomas Jefferson**
 </marquee>
 
 ---
