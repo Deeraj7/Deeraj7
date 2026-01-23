@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." - **Thomas Jefferson**
+   "Reading should be a pleasure, not a chore." - **Ralph Marston**
 </marquee>
 
 ---
