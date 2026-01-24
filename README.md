@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Reading should be a pleasure, not a chore." - **Ralph Marston**
+   "Every man desires to live long, but no man wishes to be old." - **Sun Tzu**
 </marquee>
 
 ---
