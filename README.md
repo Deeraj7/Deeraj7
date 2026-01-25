@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every man desires to live long, but no man wishes to be old." - **Sun Tzu**
+   "Human happiness and moral duty are inseparably connected. " - **Heraclitus**
 </marquee>
 
 ---
