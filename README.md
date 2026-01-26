@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Human happiness and moral duty are inseparably connected. " - **Heraclitus**
+   "You cannot always control what goes on outside. But you can always control what goes on inside. " - **Ayn Rand**
 </marquee>
 
 ---
