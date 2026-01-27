@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You cannot always control what goes on outside. But you can always control what goes on inside. " - **Ayn Rand**
+   "Life is much more successfully looked at from a single window." - **Adi Da Samraj**
 </marquee>
 
 ---
