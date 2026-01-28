@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is much more successfully looked at from a single window." - **Adi Da Samraj**
+   "Success is getting what you want, happiness is wanting what you get." - **Aristotle**
 </marquee>
 
 ---
