@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is getting what you want, happiness is wanting what you get." - **Aristotle**
+   "You can't climb the ladder of success with your hands in your pockets." - **Oscar Wilde**
 </marquee>
 
 ---
