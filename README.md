@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can't climb the ladder of success with your hands in your pockets." - **Oscar Wilde**
+   "The hard path is often the right one. The river teaches more than the shore." - **Steve Maraboli**
 </marquee>
 
 ---
