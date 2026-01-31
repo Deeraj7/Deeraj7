@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The hard path is often the right one. The river teaches more than the shore." - **Steve Maraboli**
+   "We are willing to believe anything other than the truth." - **Norman Vincent Peale**
 </marquee>
 
 ---
