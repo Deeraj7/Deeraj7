@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We are willing to believe anything other than the truth." - **Norman Vincent Peale**
+   "The most effective way to do it, is to do it." - **Unknown**
 </marquee>
 
 ---
