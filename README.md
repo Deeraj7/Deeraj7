@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The most effective way to do it, is to do it." - **Unknown**
+   "Faithless is he that says farewell when the road darkens." - **Chinese Proverb**
 </marquee>
 
 ---
