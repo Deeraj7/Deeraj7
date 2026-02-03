@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Faithless is he that says farewell when the road darkens." - **Chinese Proverb**
+   "Lost Time is never found again." - **Les Brown**
 </marquee>
 
 ---
