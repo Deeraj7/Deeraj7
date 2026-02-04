@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Lost Time is never found again." - **Les Brown**
+   "We forge the chains we wear in life." - **Emily Dickinson**
 </marquee>
 
 ---
