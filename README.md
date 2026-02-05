@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We forge the chains we wear in life." - **Emily Dickinson**
+   "All you need is passion. If you have a passion for something, you'll create the talent." - **Eric Hoffer**
 </marquee>
 
 ---
