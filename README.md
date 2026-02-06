@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All you need is passion. If you have a passion for something, you'll create the talent." - **Eric Hoffer**
+   "Great minds discuss ideas. Average minds discuss events. Small minds discuss people." - **Les Brown**
 </marquee>
 
 ---
