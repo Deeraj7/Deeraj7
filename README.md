@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Great minds discuss ideas. Average minds discuss events. Small minds discuss people." - **Les Brown**
+   "Only when you can be extremely pliable and soft can you be extremely hard and strong." - **Kabir**
 </marquee>
 
 ---
