@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Only when you can be extremely pliable and soft can you be extremely hard and strong." - **Kabir**
+   "You have to give up some of the old so that you can make room for the new." - **Alexander Pope**
 </marquee>
 
 ---
