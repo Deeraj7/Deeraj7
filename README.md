@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You have to give up some of the old so that you can make room for the new." - **Alexander Pope**
+   "I've always tried to go a step past wherever people expected me to end up." - **Will Rogers**
 </marquee>
 
 ---
