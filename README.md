@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I've always tried to go a step past wherever people expected me to end up." - **Will Rogers**
+   "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - **Lao Tzu**
 </marquee>
 
 ---
