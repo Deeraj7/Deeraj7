@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - **Lao Tzu**
+   "The final mystery is oneself." - **Nicolas Chamfort**
 </marquee>
 
 ---
