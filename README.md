@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The final mystery is oneself." - **Nicolas Chamfort**
+   "People do not decide their futures, they decide their habits and their habits decide their futures." - **Steve Harvey**
 </marquee>
 
 ---
