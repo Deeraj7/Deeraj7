@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People do not decide their futures, they decide their habits and their habits decide their futures." - **Steve Harvey**
+   "There are no shortcuts to any place worth going." - **Mae West**
 </marquee>
 
 ---
