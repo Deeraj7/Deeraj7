@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There are no shortcuts to any place worth going." - **Mae West**
+   "Often in the real world, it's not the smart that get ahead, but the bold." - **Tony Robbins**
 </marquee>
 
 ---
