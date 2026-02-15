@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Often in the real world, it's not the smart that get ahead, but the bold." - **Tony Robbins**
+   "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better." - **Dale Carnegie**
 </marquee>
 
 ---
