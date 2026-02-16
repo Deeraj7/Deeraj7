@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better." - **Dale Carnegie**
+   "The way to love anything is to realize that it may be lost." - **Charles Dickens**
 </marquee>
 
 ---
