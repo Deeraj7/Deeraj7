@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" - **Lin Yutang**
+   "Life does not get better by chance, it gets better by change." - **Mother Teresa**
 </marquee>
 
 ---
