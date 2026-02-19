@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life does not get better by chance, it gets better by change." - **Mother Teresa**
+   "Nothing important is learned; it is simply remembered." - **Eckhart Tolle**
 </marquee>
 
 ---
