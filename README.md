@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing important is learned; it is simply remembered." - **Eckhart Tolle**
+   "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." - **Heraclitus**
 </marquee>
 
 ---
