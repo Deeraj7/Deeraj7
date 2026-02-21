@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." - **Heraclitus**
+   "Life without love is like a tree without blossoms or fruit." - **Jim Rohn**
 </marquee>
 
 ---
