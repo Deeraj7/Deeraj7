@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life without love is like a tree without blossoms or fruit." - **Jim Rohn**
+   "The future is the worst thing about the present." - **Albus Dumbledore**
 </marquee>
 
 ---
