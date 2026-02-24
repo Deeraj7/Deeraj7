@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have." - **Dr. Seuss**
+   "Don't bother people for help without first trying to solve the problem yourself." - **Norman Vincent Peale**
 </marquee>
 
 ---
