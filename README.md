@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't bother people for help without first trying to solve the problem yourself." - **Norman Vincent Peale**
+   "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. " - **Unknown**
 </marquee>
 
 ---
