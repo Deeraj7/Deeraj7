@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. " - **Unknown**
+   "Be willing to be a beginner every single morning." - **Unknown**
 </marquee>
 
 ---
