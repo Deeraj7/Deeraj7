@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be willing to be a beginner every single morning." - **Unknown**
+   "Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." - **Albert Einstein**
 </marquee>
 
 ---
