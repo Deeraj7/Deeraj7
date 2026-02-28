@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." - **Albert Einstein**
+   "Each of us is a unique strand in the intricate web of life and here to make a contribution." - **Mark Manson**
 </marquee>
 
 ---
