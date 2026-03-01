@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Each of us is a unique strand in the intricate web of life and here to make a contribution." - **Mark Manson**
+   "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." - **Zig Ziglar**
 </marquee>
 
 ---
