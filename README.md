@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." - **Paramahansa Yogananda**
+   "Anything worth doing is worth doing slowly." - **Oscar Wilde**
 </marquee>
 
 ---
