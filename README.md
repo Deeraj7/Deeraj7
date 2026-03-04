@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Anything worth doing is worth doing slowly." - **Oscar Wilde**
+   "The best of us sometimes eat our words.  " - **Gilbert Chesterton**
 </marquee>
 
 ---
