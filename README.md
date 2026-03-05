@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The best of us sometimes eat our words.  " - **Gilbert Chesterton**
+   "Prefer to be defeated in the presence of the wise than to excel among fools." - **Morihei Ueshiba**
 </marquee>
 
 ---
