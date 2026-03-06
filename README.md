@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Prefer to be defeated in the presence of the wise than to excel among fools." - **Morihei Ueshiba**
+   "Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more." - **Naval Ravikant**
 </marquee>
 
 ---
