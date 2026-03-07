@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more." - **Naval Ravikant**
+   "I am thankful to all who said no to me. It is because of them that I'm doing it myself." - **Orison Swett Marden**
 </marquee>
 
 ---
