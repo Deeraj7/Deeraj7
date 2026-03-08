@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I am thankful to all who said no to me. It is because of them that I'm doing it myself." - **Orison Swett Marden**
+   "Strive for excellence, not perfection, because we don't live in a perfect world." - **Dr. Seuss**
 </marquee>
 
 ---
