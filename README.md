@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Strive for excellence, not perfection, because we don't live in a perfect world." - **Dr. Seuss**
+   "The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be." - **Nicolas Chamfort**
 </marquee>
 
 ---
