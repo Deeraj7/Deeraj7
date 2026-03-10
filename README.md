@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be." - **Nicolas Chamfort**
+   "Don't try to be young. Just open your mind. Stay interested in stuff." - **Gurbaksh Chahal**
 </marquee>
 
 ---
