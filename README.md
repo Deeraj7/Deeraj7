@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't try to be young. Just open your mind. Stay interested in stuff." - **Gurbaksh Chahal**
+   "Unless a man is master of his soul, all other kinds of mastery amount to little." - **Colin Powell**
 </marquee>
 
 ---
