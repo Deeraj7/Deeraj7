@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Unless a man is master of his soul, all other kinds of mastery amount to little." - **Colin Powell**
+   "Instead of worrying about what you cannot control, shift your energy to what you can create." - **Mahatma Gandhi**
 </marquee>
 
 ---
