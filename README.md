@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Instead of worrying about what you cannot control, shift your energy to what you can create." - **Mahatma Gandhi**
+   "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." - **Aristotle**
 </marquee>
 
 ---
