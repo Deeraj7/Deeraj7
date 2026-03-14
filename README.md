@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." - **Aristotle**
+   "Most of the evil in this world is done by people with good intentions." - **Eleanor Roosevelt**
 </marquee>
 
 ---
