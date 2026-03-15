@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Most of the evil in this world is done by people with good intentions." - **Eleanor Roosevelt**
+   "No one has ever become poor by giving." - **Alan Watts**
 </marquee>
 
 ---
