@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No one has ever become poor by giving." - **Alan Watts**
+   "Superstars think like superstars long before the fans or the press anoint them." - **Mary Engelbreit**
 </marquee>
 
 ---
