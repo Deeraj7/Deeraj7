@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Superstars think like superstars long before the fans or the press anoint them." - **Mary Engelbreit**
+   "No great mind has ever existed without a touch of madness." - **Yanni**
 </marquee>
 
 ---
