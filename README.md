@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No great mind has ever existed without a touch of madness." - **Yanni**
+   "There is nothing more frightful than ignorance in action." - **John Wooden**
 </marquee>
 
 ---
