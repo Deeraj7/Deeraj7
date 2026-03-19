@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is nothing more frightful than ignorance in action." - **John Wooden**
+   "Don't blame others. it won't make you a better person." - **Jonathan Swift**
 </marquee>
 
 ---
