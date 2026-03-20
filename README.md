@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't blame others. it won't make you a better person." - **Jonathan Swift**
+   "Success is achieved and maintained by those who try and keep trying. " - **Benjamin Franklin**
 </marquee>
 
 ---
