@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is achieved and maintained by those who try and keep trying. " - **Benjamin Franklin**
+   "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds." - **J.R.R. Tolkien**
 </marquee>
 
 ---
