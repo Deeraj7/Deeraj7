@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds." - **J.R.R. Tolkien**
+   "Emancipate yourself from mental slavery, none but ourselves can free our mind." - **Oprah Winfrey**
 </marquee>
 
 ---
