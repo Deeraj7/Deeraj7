@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Emancipate yourself from mental slavery, none but ourselves can free our mind." - **Oprah Winfrey**
+   "Don't just sit there. Do something. The answers will follow." - **Spencer Johnson**
 </marquee>
 
 ---
