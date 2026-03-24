@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't just sit there. Do something. The answers will follow." - **Spencer Johnson**
+   "First say to yourself what you would be; and then do what you have to do." - **Henry Ward Beecher**
 </marquee>
 
 ---
