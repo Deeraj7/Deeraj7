@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "First say to yourself what you would be; and then do what you have to do." - **Henry Ward Beecher**
+   "Nothing can dim the light which shines from within." - **Robert Frost**
 </marquee>
 
 ---
