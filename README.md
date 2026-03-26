@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing can dim the light which shines from within." - **Robert Frost**
+   "Remember the entrance to the sanctuary is inside you." - **Mary Engelbreit**
 </marquee>
 
 ---
