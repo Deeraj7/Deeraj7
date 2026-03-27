@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Remember the entrance to the sanctuary is inside you." - **Mary Engelbreit**
+   "I love fools' experiments. I am always making them." - **Tony Robbins**
 </marquee>
 
 ---
