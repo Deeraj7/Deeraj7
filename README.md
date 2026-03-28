@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I love fools' experiments. I am always making them." - **Tony Robbins**
+   "Knowledge is learning something everyday. Wisdom is letting go of something everyday." - **Christopher Reeve**
 </marquee>
 
 ---
