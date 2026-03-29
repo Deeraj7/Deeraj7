@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Knowledge is learning something everyday. Wisdom is letting go of something everyday." - **Christopher Reeve**
+   "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time." - **Jim Rohn**
 </marquee>
 
 ---
