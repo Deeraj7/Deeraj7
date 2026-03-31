@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Courage is resistance to fear, mastery of fear - not absence of fear." - **James Allen**
+   "Human behavior flows from three main sources: desire, emotion, and knowledge." - **James Allen**
 </marquee>
 
 ---
