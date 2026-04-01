@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Human behavior flows from three main sources: desire, emotion, and knowledge." - **James Allen**
+   "When you want to be honored by others, you learn to honor them first." - **Brian Tracy**
 </marquee>
 
 ---
