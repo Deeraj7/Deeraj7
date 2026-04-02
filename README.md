@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you want to be honored by others, you learn to honor them first." - **Brian Tracy**
+   "They who have conquered doubt and fear have conquered failure." - **Kamal Ravikant**
 </marquee>
 
 ---
