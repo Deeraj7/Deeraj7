@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "They who have conquered doubt and fear have conquered failure." - **Kamal Ravikant**
+   "In all chaos there is a cosmos, in all disorder a secret order." - **Aristophanes**
 </marquee>
 
 ---
