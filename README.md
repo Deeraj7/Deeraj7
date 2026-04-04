@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In all chaos there is a cosmos, in all disorder a secret order." - **Aristophanes**
+   "There's a very deep connection among human beings. All we have to do is open our minds to it." - **Leo Tolstoy**
 </marquee>
 
 ---
