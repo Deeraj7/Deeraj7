@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There's a very deep connection among human beings. All we have to do is open our minds to it." - **Leo Tolstoy**
+   "I believe that potential is unlimited - success depends on daring to act on dreams.   " - **Vincent van Gogh**
 </marquee>
 
 ---
