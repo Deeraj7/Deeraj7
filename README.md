@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I believe that potential is unlimited - success depends on daring to act on dreams.   " - **Vincent van Gogh**
+   "The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination." - **Joan Rivers**
 </marquee>
 
 ---
