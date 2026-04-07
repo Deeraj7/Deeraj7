@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination." - **Joan Rivers**
+   "Growing up is losing some illusions, in order to acquire others." - **John Lennon**
 </marquee>
 
 ---
