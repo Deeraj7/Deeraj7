@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Growing up is losing some illusions, in order to acquire others." - **John Lennon**
+   "All great truths begin as blasphemies." - **Maxime Lagace**
 </marquee>
 
 ---
