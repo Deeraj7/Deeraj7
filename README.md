@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "All great truths begin as blasphemies." - **Maxime Lagace**
+   "It is best to begin at the beginning." - **Orison Swett Marden**
 </marquee>
 
 ---
