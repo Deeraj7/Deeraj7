@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is best to begin at the beginning." - **Orison Swett Marden**
+   "Be - don't try to become " - **Nikola Tesla**
 </marquee>
 
 ---
