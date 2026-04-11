@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be - don't try to become " - **Nikola Tesla**
+   "We don't stop playing because we grow old; we grow old because we stop playing." - **Bob Proctor**
 </marquee>
 
 ---
