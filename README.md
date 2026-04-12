@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We don't stop playing because we grow old; we grow old because we stop playing." - **Bob Proctor**
+   "The secret of getting ahead is getting started." - **Charles Swindoll**
 </marquee>
 
 ---
