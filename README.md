@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The secret of getting ahead is getting started." - **Charles Swindoll**
+   "Don't give up on your dreams, or your dreams will give up on you." - **Unknown**
 </marquee>
 
 ---
