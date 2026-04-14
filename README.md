@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't give up on your dreams, or your dreams will give up on you." - **Unknown**
+   "The least deviation from truth will be multiplied later." - **Oprah Winfrey**
 </marquee>
 
 ---
