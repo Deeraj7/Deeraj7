@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The least deviation from truth will be multiplied later." - **Oprah Winfrey**
+   "Courage is found in unlikely places." - **T.S. Eliot**
 </marquee>
 
 ---
