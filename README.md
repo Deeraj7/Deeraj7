@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Courage is found in unlikely places." - **T.S. Eliot**
+   "You can not live your life just based on what everyone else thinks." - **John Lennon**
 </marquee>
 
 ---
