@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You can not live your life just based on what everyone else thinks." - **John Lennon**
+   "It's possible in ways both large or small to make a difference in someone's life." - **Albus Dumbledore**
 </marquee>
 
 ---
