@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's possible in ways both large or small to make a difference in someone's life." - **Albus Dumbledore**
+   "The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." - **Henry Ward Beecher**
 </marquee>
 
 ---
