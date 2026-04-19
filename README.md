@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." - **Henry Ward Beecher**
+   "I am not what happened to me, I am what I choose to become." - **Barack Obama**
 </marquee>
 
 ---
