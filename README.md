@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "I am not what happened to me, I am what I choose to become." - **Barack Obama**
+   "The businessman's tool is value." - **Elvis Presley**
 </marquee>
 
 ---
