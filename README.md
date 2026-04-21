@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The businessman's tool is value." - **Elvis Presley**
+   "A loving heart is the truest wisdom." - **Pablo Picasso**
 </marquee>
 
 ---
