@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." - **Brian Tracy**
+   "Don't let someone elses. opinion become your reality." - **James Allen**
 </marquee>
 
 ---
