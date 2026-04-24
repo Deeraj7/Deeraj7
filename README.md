@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't let someone elses. opinion become your reality." - **James Allen**
+   "Imagination means nothing without doing.  " - **Maxime Lagace**
 </marquee>
 
 ---
