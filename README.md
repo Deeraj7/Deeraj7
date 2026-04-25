@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Imagination means nothing without doing.  " - **Maxime Lagace**
+   "Learning is a weightless treasure you can always carry easily." - **Bhagavad Gita**
 </marquee>
 
 ---
