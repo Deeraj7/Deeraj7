@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Learning is a weightless treasure you can always carry easily." - **Bhagavad Gita**
+   "You are what you believe in. You become that which you believe you can become." - **Earl Nightingale**
 </marquee>
 
 ---
