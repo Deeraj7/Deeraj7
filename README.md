@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are what you believe in. You become that which you believe you can become." - **Earl Nightingale**
+   "If they wrote it to make money, don't read it." - **Thich Nhat Hanh**
 </marquee>
 
 ---
