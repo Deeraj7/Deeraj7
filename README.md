@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If they wrote it to make money, don't read it." - **Thich Nhat Hanh**
+   "There is no significance in life without struggle." - **Norman Vincent Peale**
 </marquee>
 
 ---
