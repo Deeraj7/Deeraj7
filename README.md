@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way." - **Pema Chodron**
+   "Your past does not equal your future." - **Leo Tolstoy**
 </marquee>
 
 ---
