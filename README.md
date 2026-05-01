@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your past does not equal your future." - **Leo Tolstoy**
+   "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." - **Christopher Columbus**
 </marquee>
 
 ---
