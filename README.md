@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." - **Christopher Columbus**
+   "There is no greater agony than bearing an untold story inside you." - **Ray Bradbury**
 </marquee>
 
 ---
