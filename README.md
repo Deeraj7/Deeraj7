@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is no greater agony than bearing an untold story inside you." - **Ray Bradbury**
+   "Success is achieved and maintained by those who try and keep trying. " - **Sydney Smith**
 </marquee>
 
 ---
