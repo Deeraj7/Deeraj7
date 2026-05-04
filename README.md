@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Success is achieved and maintained by those who try and keep trying. " - **Sydney Smith**
+   "Do not follow the ideas of others, but learn to listen to the voice within yourself." - **Theodore Roosevelt**
 </marquee>
 
 ---
