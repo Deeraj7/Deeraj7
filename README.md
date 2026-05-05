@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Do not follow the ideas of others, but learn to listen to the voice within yourself." - **Theodore Roosevelt**
+   "If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." - **Coco Chanel**
 </marquee>
 
 ---
