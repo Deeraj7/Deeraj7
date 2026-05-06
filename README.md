@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." - **Coco Chanel**
+   "Till it has loved, no man or woman can become itself." - **Mark Manson**
 </marquee>
 
 ---
