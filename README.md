@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Till it has loved, no man or woman can become itself." - **Mark Manson**
+   "To seek greatness is the only righteous vengeance." - **Napoleon Hill**
 </marquee>
 
 ---
