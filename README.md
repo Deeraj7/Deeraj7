@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To seek greatness is the only righteous vengeance." - **Napoleon Hill**
+   "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." - **Les Brown**
 </marquee>
 
 ---
