@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." - **Les Brown**
+   "Be happy in the moment, that's enough. Each moment is all we need, not more." - **Jim Rohn**
 </marquee>
 
 ---
