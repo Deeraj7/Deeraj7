@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be happy in the moment, that's enough. Each moment is all we need, not more." - **Jim Rohn**
+   "Just living is not enough... one must have sunshine, freedom, and a little flower. " - **Ming-Dao Deng**
 </marquee>
 
 ---
