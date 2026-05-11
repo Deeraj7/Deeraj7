@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Just living is not enough... one must have sunshine, freedom, and a little flower. " - **Ming-Dao Deng**
+   "You get paid in direct proportion to the difficulty of problems you solve." - **Mary Engelbreit**
 </marquee>
 
 ---
