@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You get paid in direct proportion to the difficulty of problems you solve." - **Mary Engelbreit**
+   "Selfishness and greed, individual or national, cause most of our troubles." - **Jack Butcher**
 </marquee>
 
 ---
