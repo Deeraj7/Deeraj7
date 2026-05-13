@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Selfishness and greed, individual or national, cause most of our troubles." - **Jack Butcher**
+   "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." - **Dan Millman**
 </marquee>
 
 ---
