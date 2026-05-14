@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." - **Dan Millman**
+   "Engage in those actions and thoughts that nurture the good qualities you want to have." - **Elvis Presley**
 </marquee>
 
 ---
