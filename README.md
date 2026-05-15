@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Engage in those actions and thoughts that nurture the good qualities you want to have." - **Elvis Presley**
+   "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - **Dale Carnegie**
 </marquee>
 
 ---
