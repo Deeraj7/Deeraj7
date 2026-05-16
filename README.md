@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." - **Dale Carnegie**
+   "Worry is a waste of emotional reserve." - **Nicolas Chamfort**
 </marquee>
 
 ---
