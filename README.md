@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Worry is a waste of emotional reserve." - **Nicolas Chamfort**
+   "Life is a long lesson in humility. " - **Margaret Mead**
 </marquee>
 
 ---
