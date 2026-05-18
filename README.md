@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life is a long lesson in humility. " - **Margaret Mead**
+   "No matter what happens, always be yourself." - **Paramahansa Yogananda**
 </marquee>
 
 ---
