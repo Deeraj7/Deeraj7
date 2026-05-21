@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's not what you pay a man, but what he costs you that counts." - **Sonia Ricotti**
+   "Luck is a matter of preparation meeting opportunity." - **Mother Teresa**
 </marquee>
 
 ---
