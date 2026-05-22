@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Luck is a matter of preparation meeting opportunity." - **Mother Teresa**
+   "What the caterpillar calls the end of the world, the master calls a butterfly." - **Alexandre Dumas**
 </marquee>
 
 ---
