@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What the caterpillar calls the end of the world, the master calls a butterfly." - **Alexandre Dumas**
+   "Failing is another stepping stone to greatness." - **Martin Luther**
 </marquee>
 
 ---
