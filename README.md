@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Failing is another stepping stone to greatness." - **Martin Luther**
+   "Live simply, expect little, give much." - **Henry Ward Beecher**
 </marquee>
 
 ---
