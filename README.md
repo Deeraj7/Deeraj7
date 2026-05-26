@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The man who moved the mountain was the one who began carrying away the smallest stones." - **Virginia Woolf**
+   "Sorrow is how we learn to love." - **Marcus Aurelius**
 </marquee>
 
 ---
