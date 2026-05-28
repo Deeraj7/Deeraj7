@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Care about what other people think and you will always be their prisoner." - **Pablo Picasso**
+   "Nothing is easier than fault finding." - **Steve Harvey**
 </marquee>
 
 ---
