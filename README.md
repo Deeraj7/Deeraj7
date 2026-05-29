@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing is easier than fault finding." - **Steve Harvey**
+   "Be willing to be a beginner every single morning." - **Spencer Johnson**
 </marquee>
 
 ---
