@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be willing to be a beginner every single morning." - **Spencer Johnson**
+   "Life happens in the river, not the shore." - **Elon Musk**
 </marquee>
 
 ---
