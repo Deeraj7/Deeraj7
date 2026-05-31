@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Life happens in the river, not the shore." - **Elon Musk**
+   "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." - **Carl Jung**
 </marquee>
 
 ---
