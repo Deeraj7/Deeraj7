@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding." - **Kahlil Gibran**
+   "We can know only that we know nothing. And that is the highest degree of human wisdom." - **James Matthew Barrie**
 </marquee>
 
 ---
