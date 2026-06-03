@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We can know only that we know nothing. And that is the highest degree of human wisdom." - **James Matthew Barrie**
+   "Man is made by his belief. As he believes, so he is." - **John Eliot**
 </marquee>
 
 ---
