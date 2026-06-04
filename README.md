@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Man is made by his belief. As he believes, so he is." - **John Eliot**
+   "Believe you can and you're halfway there." - **Lolly Daskal**
 </marquee>
 
 ---
