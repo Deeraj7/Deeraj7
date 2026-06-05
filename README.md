@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Believe you can and you're halfway there." - **Lolly Daskal**
+   "No man is happy unless he believes he is." - **John Eliot**
 </marquee>
 
 ---
