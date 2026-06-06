@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No man is happy unless he believes he is." - **John Eliot**
+   "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." - **Napoleon Hill**
 </marquee>
 
 ---
