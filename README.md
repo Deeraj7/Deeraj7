@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." - **Napoleon Hill**
+   "Don't set your own goals by what other people make important." - **Peter A. Cohen**
 </marquee>
 
 ---
