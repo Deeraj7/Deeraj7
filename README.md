@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't set your own goals by what other people make important." - **Peter A. Cohen**
+   "My definition of success is control." - **Aristophanes**
 </marquee>
 
 ---
