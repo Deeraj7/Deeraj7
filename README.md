@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "My definition of success is control." - **Aristophanes**
+   "Until you change how you get things done, you'll never know what works best." - **Shunryu Suzuki**
 </marquee>
 
 ---
