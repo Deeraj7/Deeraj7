@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Until you change how you get things done, you'll never know what works best." - **Shunryu Suzuki**
+   "The only thing new in the world is the history you do not know." - **Toni Morrison**
 </marquee>
 
 ---
