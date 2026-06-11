@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The only thing new in the world is the history you do not know." - **Toni Morrison**
+   "Live calmly. The time will come when the flowers bloom by themselves." - **Theodore Roosevelt**
 </marquee>
 
 ---
