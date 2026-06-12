@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Live calmly. The time will come when the flowers bloom by themselves." - **Theodore Roosevelt**
+   "Not until we are lost do we begin to understand ourselves." - **Vince Lombardi**
 </marquee>
 
 ---
