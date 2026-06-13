@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Not until we are lost do we begin to understand ourselves." - **Vince Lombardi**
+   "Only when I fall do I get up again." - **Colin R. Davis**
 </marquee>
 
 ---
