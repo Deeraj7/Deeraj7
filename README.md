@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Only when I fall do I get up again." - **Colin R. Davis**
+   "Time you enjoy wasting, was not wasted." - **Norman Vincent Peale**
 </marquee>
 
 ---
