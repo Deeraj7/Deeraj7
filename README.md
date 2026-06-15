@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Time you enjoy wasting, was not wasted." - **Norman Vincent Peale**
+   "The more often a stupidity is repeated, the more it gets the appearance of wisdom." - **Zig Ziglar**
 </marquee>
 
 ---
