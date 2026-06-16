@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The more often a stupidity is repeated, the more it gets the appearance of wisdom." - **Zig Ziglar**
+   "The truly rich men are the ones who have health, loved ones and a work they love." - **Tony Robbins**
 </marquee>
 
 ---
