@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The truly rich men are the ones who have health, loved ones and a work they love." - **Tony Robbins**
+   "The best way to find yourself is to lose yourself in the service of others." - **Elon Musk**
 </marquee>
 
 ---
