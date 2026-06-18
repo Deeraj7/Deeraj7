@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The best way to find yourself is to lose yourself in the service of others." - **Elon Musk**
+   "The most wasted day of all is that on which we have not laughed." - **Gurbaksh Chahal**
 </marquee>
 
 ---
