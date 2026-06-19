@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The most wasted day of all is that on which we have not laughed." - **Gurbaksh Chahal**
+   "If you done it, it ain't bragging." - **Epictetus**
 </marquee>
 
 ---
