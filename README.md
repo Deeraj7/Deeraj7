@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you done it, it ain't bragging." - **Epictetus**
+   "Heal the past, live the present, dream the future." - **Winston Churchill**
 </marquee>
 
 ---
