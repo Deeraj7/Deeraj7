@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Heal the past, live the present, dream the future." - **Winston Churchill**
+   "Whenever people agree with me I always feel I must be wrong." - **Beverly Sills**
 </marquee>
 
 ---
