@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Whenever people agree with me I always feel I must be wrong." - **Beverly Sills**
+   "Truth is like most opinions - best unexpressed." - **Earl Nightingale**
 </marquee>
 
 ---
