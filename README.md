@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Truth is like most opinions - best unexpressed." - **Earl Nightingale**
+   "Time heals what reason cannot." - **Johann Wolfgang von Goethe**
 </marquee>
 
 ---
