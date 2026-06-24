@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Time heals what reason cannot." - **Johann Wolfgang von Goethe**
+   "Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." - **Roy T. Bennett**
 </marquee>
 
 ---
