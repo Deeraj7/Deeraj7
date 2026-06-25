@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." - **Roy T. Bennett**
+   "Sometimes out of your biggest misery, comes your greatest gain." - **Martin Luther King, Jr.**
 </marquee>
 
 ---
