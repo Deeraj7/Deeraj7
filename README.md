@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Sometimes out of your biggest misery, comes your greatest gain." - **Martin Luther King, Jr.**
+   "Where does a thought go when it's forgotten?" - **Steve Harvey**
 </marquee>
 
 ---
