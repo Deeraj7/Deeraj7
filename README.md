@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Where does a thought go when it's forgotten?" - **Steve Harvey**
+   "Do Something. If it works, do more of it. If it doesn't, do something else." - **Soren Kierkegaard**
 </marquee>
 
 ---
