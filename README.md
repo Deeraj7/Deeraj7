@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Do Something. If it works, do more of it. If it doesn't, do something else." - **Soren Kierkegaard**
+   "The strength of a wall is neither greater nor less than the courage of the men who defend it." - **Eric Hoffer**
 </marquee>
 
 ---
