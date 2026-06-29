@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The strength of a wall is neither greater nor less than the courage of the men who defend it." - **Eric Hoffer**
+   "A path is made by walking on it." - **Honore de Balzac**
 </marquee>
 
 ---
