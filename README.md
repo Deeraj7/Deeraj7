@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A path is made by walking on it." - **Honore de Balzac**
+   "A zen master's life is one continuous mistake." - **Naval Ravikant**
 </marquee>
 
 ---
