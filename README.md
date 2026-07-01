@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A zen master's life is one continuous mistake." - **Naval Ravikant**
+   "It is literally true that you can succeed best and quickest by helping others succeed." - **John Carmack**
 </marquee>
 
 ---
