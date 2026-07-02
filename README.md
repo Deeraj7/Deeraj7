@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is literally true that you can succeed best and quickest by helping others succeed." - **John Carmack**
+   "A mountain never yields to the wind no matter how strong it is." - **St. Jerome**
 </marquee>
 
 ---
