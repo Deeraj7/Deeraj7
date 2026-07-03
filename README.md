@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A mountain never yields to the wind no matter how strong it is." - **St. Jerome**
+   "Those who dream by day are cognizant of many things which escape those who dream only by night." - **Earl Nightingale**
 </marquee>
 
 ---
