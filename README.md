@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Those who dream by day are cognizant of many things which escape those who dream only by night." - **Earl Nightingale**
+   "Enjoy life. There's plenty of time to be dead." - **Nicolas Chamfort**
 </marquee>
 
 ---
