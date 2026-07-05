@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Enjoy life. There's plenty of time to be dead." - **Nicolas Chamfort**
+   "The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong." - **Unknown**
 </marquee>
 
 ---
