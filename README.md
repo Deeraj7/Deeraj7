@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong." - **Unknown**
+   "People who have goals succeed because they know where they're going. It's that simple." - **Martin Luther King, Jr.**
 </marquee>
 
 ---
