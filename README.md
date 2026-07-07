@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People who have goals succeed because they know where they're going. It's that simple." - **Martin Luther King, Jr.**
+   "It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - **Colin R. Davis**
 </marquee>
 
 ---
