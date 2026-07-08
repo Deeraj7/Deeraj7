@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - **Colin R. Davis**
+   "Never do to others what you would not like them to do to you." - **Naval Ravikant**
 </marquee>
 
 ---
