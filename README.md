@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Never do to others what you would not like them to do to you." - **Naval Ravikant**
+   "To improve is to change, so to be perfect is to change often." - **Carol Burnett**
 </marquee>
 
 ---
