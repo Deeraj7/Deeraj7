@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To improve is to change, so to be perfect is to change often." - **Carol Burnett**
+   "Happiness is the absence of the striving for happiness." - **T.S. Eliot**
 </marquee>
 
 ---
