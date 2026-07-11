@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Happiness is the absence of the striving for happiness." - **T.S. Eliot**
+   "Never stand begging for that which you have the power to earn." - **Dogen**
 </marquee>
 
 ---
