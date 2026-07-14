@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The art of being wise is knowing what to overlook." - **James Cameron**
+   "Make your life a mission - not an intermission." - **Dogen**
 </marquee>
 
 ---
