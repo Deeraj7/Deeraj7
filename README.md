@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make your life a mission - not an intermission." - **Dogen**
+   "" - **Chinese Proverb**
 </marquee>
 
 ---
