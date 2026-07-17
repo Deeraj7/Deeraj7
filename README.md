@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The opportunity of defeating the enemy is provided by the enemy himself." - **Charles Dickens**
+   "Peace is letting it be. Letting life flow, letting emotions flow through you." - **Unknown**
 </marquee>
 
 ---
