@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The power to make and break habits and learning how to do that is really important." - **Brian Tracy**
+   "To lose your temper is only useful once a year." - **Lao Tzu**
 </marquee>
 
 ---
