@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To lose your temper is only useful once a year." - **Lao Tzu**
+   "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." - **Ayn Rand**
 </marquee>
 
 ---
