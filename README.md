@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine." - **Ayn Rand**
+   "It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." - **George Washington**
 </marquee>
 
 ---
