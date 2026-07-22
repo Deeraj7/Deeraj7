@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." - **George Washington**
+   "Once you learn to quit, it becomes a habit." - **F. Scott Fitzgerald**
 </marquee>
 
 ---
