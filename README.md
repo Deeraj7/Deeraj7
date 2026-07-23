@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Once you learn to quit, it becomes a habit." - **F. Scott Fitzgerald**
+   "Forget safety. Live where you fear to live." - **Elon Musk**
 </marquee>
 
 ---
