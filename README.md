@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Forget safety. Live where you fear to live." - **Elon Musk**
+   "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." - **Zhuangzi**
 </marquee>
 
 ---
