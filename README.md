@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." - **Zhuangzi**
+   "Your home is where your thoughts find peace." - **Mark Manson**
 </marquee>
 
 ---
