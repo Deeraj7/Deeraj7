@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your home is where your thoughts find peace." - **Mark Manson**
+   "Every artist dips his brush in his own soul, and paints his own nature into his pictures." - **Lao Tzu**
 </marquee>
 
 ---
