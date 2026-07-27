@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every artist dips his brush in his own soul, and paints his own nature into his pictures." - **Lao Tzu**
+   "Excellence is not a skill. It is an attitude." - **Paulo Coelho**
 </marquee>
 
 ---
