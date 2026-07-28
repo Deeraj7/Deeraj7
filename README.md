@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Excellence is not a skill. It is an attitude." - **Paulo Coelho**
+   "Memory is the scribe of the soul." - **Epictetus**
 </marquee>
 
 ---
