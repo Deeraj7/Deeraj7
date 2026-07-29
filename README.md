@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Memory is the scribe of the soul." - **Epictetus**
+   "Successful people are not without problems. They're simply people who've learned to solve their problems." - **Walt Whitman**
 </marquee>
 
 ---
