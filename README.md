@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Successful people are not without problems. They're simply people who've learned to solve their problems." - **Walt Whitman**
+   "A little impatience will spoil great plans." - **Vincent van Gogh**
 </marquee>
 
 ---
