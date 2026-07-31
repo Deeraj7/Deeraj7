@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A little impatience will spoil great plans." - **Vincent van Gogh**
+   "Blessings and burdens are not mutually exclusive." - **Dalai Lama**
 </marquee>
 
 ---
