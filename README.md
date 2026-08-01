@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Blessings and burdens are not mutually exclusive." - **Dalai Lama**
+   "Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." - **Franklin D. Roosevelt**
 </marquee>
 
 ---
