@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." - **Franklin D. Roosevelt**
+   "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - **Colin Powell**
 </marquee>
 
 ---
