@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - **Colin Powell**
+   "Failure comes from ego, greed, envy, fear, and imitation." - **Theodore Roosevelt**
 </marquee>
 
 ---
