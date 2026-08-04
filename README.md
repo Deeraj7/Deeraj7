@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Failure comes from ego, greed, envy, fear, and imitation." - **Theodore Roosevelt**
+   "To raise your consciousness, surround yourself with people of higher consciousness." - **Albert Einstein**
 </marquee>
 
 ---
