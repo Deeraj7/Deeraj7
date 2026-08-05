@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To raise your consciousness, surround yourself with people of higher consciousness." - **Albert Einstein**
+   "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." - **Theodore Roosevelt**
 </marquee>
 
 ---
