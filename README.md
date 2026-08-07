@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Against the assault of laughter nothing can stand." - **Roy T. Bennett**
+   "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails." - **Gurbaksh Chahal**
 </marquee>
 
 ---
