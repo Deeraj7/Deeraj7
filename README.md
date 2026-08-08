@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails." - **Gurbaksh Chahal**
+   "Your greatest asset is your earning ability. Your greatest resource is your time." - **Thomas Edison**
 </marquee>
 
 ---
