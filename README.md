@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your greatest asset is your earning ability. Your greatest resource is your time." - **Thomas Edison**
+   "Let us rather run the risk of wearing out than rusting out." - **Aristotle**
 </marquee>
 
 ---
