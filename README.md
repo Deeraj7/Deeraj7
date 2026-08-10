@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Let us rather run the risk of wearing out than rusting out." - **Aristotle**
+   "Be polite to all, but intimate with few." - **Brian Tracy**
 </marquee>
 
 ---
