@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be polite to all, but intimate with few." - **Brian Tracy**
+   "To do two things at once is to do neither." - **Johann Wolfgang von Goethe**
 </marquee>
 
 ---
