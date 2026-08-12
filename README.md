@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "To do two things at once is to do neither." - **Johann Wolfgang von Goethe**
+   "A golden cage is still just a cage." - **Ronald Reagan**
 </marquee>
 
 ---
