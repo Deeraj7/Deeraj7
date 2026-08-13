@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A golden cage is still just a cage." - **Ronald Reagan**
+   "Nothing can bring you peace but yourself." - **Jim Rohn**
 </marquee>
 
 ---
