@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing can bring you peace but yourself." - **Jim Rohn**
+   "The older you get, the better you get. Unless you're a banana." - **Charles Darwin**
 </marquee>
 
 ---
