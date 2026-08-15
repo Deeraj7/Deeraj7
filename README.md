@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The older you get, the better you get. Unless you're a banana." - **Charles Darwin**
+   "Perfectionism is simply putting a limit on your future." - **Josh Waitzkin**
 </marquee>
 
 ---
