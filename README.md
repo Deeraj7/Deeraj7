@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Perfectionism is simply putting a limit on your future." - **Josh Waitzkin**
+   "Your mind is infinite, it's your doubts that are limiting." - **Sun Tzu**
 </marquee>
 
 ---
