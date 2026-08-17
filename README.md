@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your mind is infinite, it's your doubts that are limiting." - **Sun Tzu**
+   "The only way to 'find out if it will work out' is to do it." - **Les Brown**
 </marquee>
 
 ---
