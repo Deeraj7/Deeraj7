@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The only way to 'find out if it will work out' is to do it." - **Les Brown**
+   "Be brave enough to suck at something new." - **Isaac Newton**
 </marquee>
 
 ---
