@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be brave enough to suck at something new." - **Isaac Newton**
+   "The more you lose yourself in something bigger than yourself, the more energy you will have." - **Paulo Coelho**
 </marquee>
 
 ---
