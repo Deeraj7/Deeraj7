@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The more you lose yourself in something bigger than yourself, the more energy you will have." - **Paulo Coelho**
+   "Duty makes us do things well, but love makes us do them beautifully." - **George Bernard Shaw**
 </marquee>
 
 ---
