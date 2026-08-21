@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Duty makes us do things well, but love makes us do them beautifully." - **George Bernard Shaw**
+   "What gets measured gets improved." - **Charles Dickens**
 </marquee>
 
 ---
