@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What gets measured gets improved." - **Charles Dickens**
+   "If you don't program yourself, life will program you." - **Tony Robbins**
 </marquee>
 
 ---
