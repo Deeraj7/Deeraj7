@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." - **Sathya Sai Baba**
+   "The best way to predict your future is to create it." - **Robin Sharma**
 </marquee>
 
 ---
