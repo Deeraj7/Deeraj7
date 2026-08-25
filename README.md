@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The best way to predict your future is to create it." - **Robin Sharma**
+   "If you do what you've always done, you'll get what you've always gotten." - **Paramahansa Yogananda**
 </marquee>
 
 ---
