@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you do what you've always done, you'll get what you've always gotten." - **Paramahansa Yogananda**
+   "Perpetual optimism is a force multiplier." - **Amelia Earhart**
 </marquee>
 
 ---
