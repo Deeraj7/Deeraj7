@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In order to carry a positive action, we must develop here a positive vision." - **Warren Buffett**
+   "Friendship is like money, easier made than kept." - **Alexander Pope**
 </marquee>
 
 ---
