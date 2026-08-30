@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Friendship is like money, easier made than kept." - **Alexander Pope**
+   "It's very strange that the people you love are often the people you're most cruel to." - **Kenneth Branagh**
 </marquee>
 
 ---
