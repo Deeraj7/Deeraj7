@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It's very strange that the people you love are often the people you're most cruel to." - **Kenneth Branagh**
+   "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." - **Lao Tzu**
 </marquee>
 
 ---
