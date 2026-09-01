@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." - **Lao Tzu**
+   "Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it." - **Unknown**
 </marquee>
 
 ---
