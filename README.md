@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it." - **Unknown**
+   "Decide whether or not the goal is worth the risks involved. If it is, stop worrying." - **Ayn Rand**
 </marquee>
 
 ---
