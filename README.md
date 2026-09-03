@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Decide whether or not the goal is worth the risks involved. If it is, stop worrying." - **Ayn Rand**
+   "Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." - **Herodotus**
 </marquee>
 
 ---
