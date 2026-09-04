@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff." - **Herodotus**
+   "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding." - **Dan Millman**
 </marquee>
 
 ---
