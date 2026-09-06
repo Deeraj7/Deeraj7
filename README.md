@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The future belongs to those who believe in the beauty of their dreams." - **Chinese Proverb**
+   "When your intuition is strong, follow it." - **Tony Robbins**
 </marquee>
 
 ---
