@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When your intuition is strong, follow it." - **Tony Robbins**
+   "Only in the agony of parting do we look into the depths of love." - **Colin R. Davis**
 </marquee>
 
 ---
