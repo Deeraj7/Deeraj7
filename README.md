@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Only in the agony of parting do we look into the depths of love." - **Colin R. Davis**
+   "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." - **Ralph Waldo Emerson**
 </marquee>
 
 ---
