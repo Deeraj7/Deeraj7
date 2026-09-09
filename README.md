@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." - **Ralph Waldo Emerson**
+   "Believe you can and you will be halfway there." - **Chinese Proverb**
 </marquee>
 
 ---
