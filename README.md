@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Believe you can and you will be halfway there." - **Chinese Proverb**
+   "Failure is the key to success; each mistake teaches us something." - **Bob Dylan**
 </marquee>
 
 ---
