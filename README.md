@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Failure is the key to success; each mistake teaches us something." - **Bob Dylan**
+   "Without the rain there would be no rainbow." - **Dan Millman**
 </marquee>
 
 ---
