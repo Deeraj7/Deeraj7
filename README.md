@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Without the rain there would be no rainbow." - **Dan Millman**
+   "Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." - **Bhagavad Gita**
 </marquee>
 
 ---
