@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." - **Bhagavad Gita**
+   "Management is doing things right; leadership is doing the right things." - **Pema Chodron**
 </marquee>
 
 ---
