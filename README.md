@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Management is doing things right; leadership is doing the right things." - **Pema Chodron**
+   "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." - **Chinese Proverb**
 </marquee>
 
 ---
