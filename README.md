@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." - **Chinese Proverb**
+   "A poet should be so crafty with words that he is envied even for his pains." - **Walt Disney**
 </marquee>
 
 ---
