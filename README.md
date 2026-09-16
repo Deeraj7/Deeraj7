@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A poet should be so crafty with words that he is envied even for his pains." - **Walt Disney**
+   "True ignorance is not the absence of knowledge, it's the refusal to acquire it." - **Alfred Adler**
 </marquee>
 
 ---
