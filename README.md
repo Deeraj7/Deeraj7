@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "True ignorance is not the absence of knowledge, it's the refusal to acquire it." - **Alfred Adler**
+   "Work as though you would live forever, and live as though you would die today. Go another mile." - **J.R.R. Tolkien**
 </marquee>
 
 ---
