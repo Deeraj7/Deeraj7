@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Work as though you would live forever, and live as though you would die today. Go another mile." - **J.R.R. Tolkien**
+   "Force has no place where there is need of skill." - **Dale Carnegie**
 </marquee>
 
 ---
