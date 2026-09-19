@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Force has no place where there is need of skill." - **Dale Carnegie**
+   "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." - **Dan Millman**
 </marquee>
 
 ---
