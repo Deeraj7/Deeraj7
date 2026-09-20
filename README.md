@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." - **Dan Millman**
+   "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." - **Roy T. Bennett**
 </marquee>
 
 ---
