@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." - **Roy T. Bennett**
+   "The person who is his own master cannot tolerate another boss." - **Winston Churchill**
 </marquee>
 
 ---
