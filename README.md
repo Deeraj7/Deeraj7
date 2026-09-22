@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The person who is his own master cannot tolerate another boss." - **Winston Churchill**
+   "Real loss is only possible when you love something more than you love yourself." - **William Faulkner**
 </marquee>
 
 ---
