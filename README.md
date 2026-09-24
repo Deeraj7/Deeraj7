@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Too many of us are not living our dreams because we are living our fears." - **Spencer Johnson**
+   "Dreams provide nourishment for the soul, just as a meal does for the body." - **Hans Christian Andersen**
 </marquee>
 
 ---
