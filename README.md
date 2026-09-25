@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Dreams provide nourishment for the soul, just as a meal does for the body." - **Hans Christian Andersen**
+   "Care about what other people think and you will always be their prisoner." - **Unknown**
 </marquee>
 
 ---
