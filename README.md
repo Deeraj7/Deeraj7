@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Care about what other people think and you will always be their prisoner." - **Unknown**
+   "Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along." - **John Lennon**
 </marquee>
 
 ---
