@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along." - **John Lennon**
+   "We will outstretch the hand if you unclench your fist." - **Christopher Columbus**
 </marquee>
 
 ---
