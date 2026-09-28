@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We will outstretch the hand if you unclench your fist." - **Christopher Columbus**
+   "Rewards and punishment is the lowest form of education." - **Paramahansa Yogananda**
 </marquee>
 
 ---
