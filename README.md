@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Rewards and punishment is the lowest form of education." - **Paramahansa Yogananda**
+   "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." - **Zen Proverb**
 </marquee>
 
 ---
