@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Be curious, not judgmental." - **Lolly Daskal**
+   "Age is a very high price to pay for maturity." - **Robert Kiyosaki**
 </marquee>
 
 ---
