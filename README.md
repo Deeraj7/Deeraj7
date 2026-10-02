@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Age is a very high price to pay for maturity." - **Robert Kiyosaki**
+   "The power of human thought grows exponentially with the number of minds that share that thought." - **Jiddu Krishnamurti**
 </marquee>
 
 ---
