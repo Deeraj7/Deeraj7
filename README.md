@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The power of human thought grows exponentially with the number of minds that share that thought." - **Jiddu Krishnamurti**
+   "Empty your mind, be formless, shapeless, like water." - **Steve Jobs**
 </marquee>
 
 ---
