@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Empty your mind, be formless, shapeless, like water." - **Steve Jobs**
+   "A dream you dream alone is only a dream. A dream you dream together is reality." - **Maxime Lagace**
 </marquee>
 
 ---
