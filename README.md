@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A dream you dream alone is only a dream. A dream you dream together is reality." - **Maxime Lagace**
+   "Your vision will become clear only when you can look into your own heart." - **Henry Ward Beecher**
 </marquee>
 
 ---
