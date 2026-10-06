@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Your vision will become clear only when you can look into your own heart." - **Henry Ward Beecher**
+   "Words have no power to impress the mind without the exquisite horror of their reality." - **Unknown**
 </marquee>
 
 ---
