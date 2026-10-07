@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Words have no power to impress the mind without the exquisite horror of their reality." - **Unknown**
+   "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." - **William James**
 </marquee>
 
 ---
