@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." - **William James**
+   "The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." - **Norman Vincent Peale**
 </marquee>
 
 ---
