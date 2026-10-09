@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." - **Norman Vincent Peale**
+   "In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." - **Socrates**
 </marquee>
 
 ---
