@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." - **Socrates**
+   "What have you done today to make someone else happy?" - **Morihei Ueshiba**
 </marquee>
 
 ---
