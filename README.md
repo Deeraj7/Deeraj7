@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What have you done today to make someone else happy?" - **Morihei Ueshiba**
+   "A person is only by the thoughts that he chooses." - **Miguel de Cervantes**
 </marquee>
 
 ---
