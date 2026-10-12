@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "A person is only by the thoughts that he chooses." - **Miguel de Cervantes**
+   "Better to die fighting for freedom than be a prisoner all the days of your life." - **Maya Angelou**
 </marquee>
 
 ---
