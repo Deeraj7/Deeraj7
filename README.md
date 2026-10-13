@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Better to die fighting for freedom than be a prisoner all the days of your life." - **Maya Angelou**
+   "No man ever steps in the same river twice, for it's not the same river and he's not the same man." - **Charles Swindoll**
 </marquee>
 
 ---
