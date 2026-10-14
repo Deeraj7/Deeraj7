@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "No man ever steps in the same river twice, for it's not the same river and he's not the same man." - **Charles Swindoll**
+   "Men do not attract which they want but that which they are." - **Kahlil Gibran**
 </marquee>
 
 ---
