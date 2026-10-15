@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Men do not attract which they want but that which they are." - **Kahlil Gibran**
+   "Each time we don't say what we wanna say, we're dying." - **Lao Tzu**
 </marquee>
 
 ---
