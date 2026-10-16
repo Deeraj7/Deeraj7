@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Each time we don't say what we wanna say, we're dying." - **Lao Tzu**
+   "Every poem should remind the reader that they are going to die." - **Robert Frost**
 </marquee>
 
 ---
