@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Every poem should remind the reader that they are going to die." - **Robert Frost**
+   "It is better to point out your own mistakes than have somebody else do it." - **Ryan Holiday**
 </marquee>
 
 ---
