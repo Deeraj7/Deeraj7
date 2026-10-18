@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "It is better to point out your own mistakes than have somebody else do it." - **Ryan Holiday**
+   "You must find the place inside yourself where nothing is impossible." - **Unknown**
 </marquee>
 
 ---
