@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You must find the place inside yourself where nothing is impossible." - **Unknown**
+   "Always seek out the seed of triumph in every adversity." - **Dan Millman**
 </marquee>
 
 ---
