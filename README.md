@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Always seek out the seed of triumph in every adversity." - **Dan Millman**
+   "People tend to complicate their own lives, as if living weren't already complicated enough." - **Elbert Hubbard**
 </marquee>
 
 ---
