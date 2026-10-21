@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People tend to complicate their own lives, as if living weren't already complicated enough." - **Elbert Hubbard**
+   "Difficulties strengthen the mind, as labor does the body." - **Andrew Carnegie**
 </marquee>
 
 ---
