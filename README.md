@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Difficulties strengthen the mind, as labor does the body." - **Andrew Carnegie**
+   "You cannot control the behavior of others, but you can always choose how you respond to it." - **Martin Luther**
 </marquee>
 
 ---
