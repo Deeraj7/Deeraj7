@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You cannot control the behavior of others, but you can always choose how you respond to it." - **Martin Luther**
+   "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." - **Colin R. Davis**
 </marquee>
 
 ---
