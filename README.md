@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." - **Colin R. Davis**
+   "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." - **Lao Tzu**
 </marquee>
 
 ---
