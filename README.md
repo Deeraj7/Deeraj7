@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." - **Lao Tzu**
+   "Make your stand today. On this spot. On this day." - **Celestine Chua**
 </marquee>
 
 ---
