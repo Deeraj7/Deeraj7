@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Make your stand today. On this spot. On this day." - **Celestine Chua**
+   "There's more to life than being a passenger." - **Jim Rohn**
 </marquee>
 
 ---
