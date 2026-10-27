@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "There's more to life than being a passenger." - **Jim Rohn**
+   "Unless someone truly has the power to say no, they never truly have the power to say yes." - **Eckhart Tolle**
 </marquee>
 
 ---
