@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Unless someone truly has the power to say no, they never truly have the power to say yes." - **Eckhart Tolle**
+   "Great things happen to those who don't stop believing, trying, learning, and being grateful." - **Mae West**
 </marquee>
 
 ---
