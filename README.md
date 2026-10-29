@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Great things happen to those who don't stop believing, trying, learning, and being grateful." - **Mae West**
+   "Circumstances do not make the man, they reveal him." - **Thomas Edison**
 </marquee>
 
 ---
