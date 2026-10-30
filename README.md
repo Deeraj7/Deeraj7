@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Circumstances do not make the man, they reveal him." - **Thomas Edison**
+   "Poetry is written with tears, fiction with blood, and history with invisible ink." - **Carlos Ruiz Zafon**
 </marquee>
 
 ---
