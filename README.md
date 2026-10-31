@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Poetry is written with tears, fiction with blood, and history with invisible ink." - **Carlos Ruiz Zafon**
+   "If you want peace, you won't get it with violence." - **Morihei Ueshiba**
 </marquee>
 
 ---
