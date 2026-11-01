@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you want peace, you won't get it with violence." - **Morihei Ueshiba**
+   "The world makes way for the man who knows where he is going." - **Carol Burnett**
 </marquee>
 
 ---
