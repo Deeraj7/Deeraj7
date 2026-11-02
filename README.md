@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The world makes way for the man who knows where he is going." - **Carol Burnett**
+   "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - **Unknown**
 </marquee>
 
 ---
