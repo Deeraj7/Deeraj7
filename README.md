@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - **Unknown**
+   "He will win who knows when to fight and when not to fight." - **Walt Whitman**
 </marquee>
 
 ---
