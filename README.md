@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "He will win who knows when to fight and when not to fight." - **Walt Whitman**
+   "People don't care how much you know until they know how much you care." - **Michael Jordan**
 </marquee>
 
 ---
