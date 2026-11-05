@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "People don't care how much you know until they know how much you care." - **Michael Jordan**
+   "Nothing makes a man broad-minded like adversity." - **Epictetus**
 </marquee>
 
 ---
