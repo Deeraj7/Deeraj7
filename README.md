@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nothing makes a man broad-minded like adversity." - **Epictetus**
+   "When you believe in a thing, believe in it all the way, implicitly and unquestionable." - **D. H. Lawrence**
 </marquee>
 
 ---
