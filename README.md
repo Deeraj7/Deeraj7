@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "When you believe in a thing, believe in it all the way, implicitly and unquestionable." - **D. H. Lawrence**
+   "The secret to happiness is having low expectations." - **Eckhart Tolle**
 </marquee>
 
 ---
