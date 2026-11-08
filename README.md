@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The secret to happiness is having low expectations." - **Eckhart Tolle**
+   "You cannot teach a crab to walk straight." - **Huang Po**
 </marquee>
 
 ---
