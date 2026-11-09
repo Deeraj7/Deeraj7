@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You cannot teach a crab to walk straight." - **Huang Po**
+   "Desire for the fruits of work must never be your motive in working." - **Bodhidharma**
 </marquee>
 
 ---
