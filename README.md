@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Desire for the fruits of work must never be your motive in working." - **Bodhidharma**
+   "In peace, sons bury their fathers. In war, fathers bury their sons." - **Henry Ford**
 </marquee>
 
 ---
