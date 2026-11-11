@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "In peace, sons bury their fathers. In war, fathers bury their sons." - **Henry Ford**
+   "The pen is the tongue of the mind." - **Joyce Meyer**
 </marquee>
 
 ---
