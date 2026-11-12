@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The pen is the tongue of the mind." - **Joyce Meyer**
+   "If you've never eaten while crying you don t know what life tastes like." - **Charlie Chaplin**
 </marquee>
 
 ---
