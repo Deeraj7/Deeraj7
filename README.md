@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If you've never eaten while crying you don t know what life tastes like." - **Charlie Chaplin**
+   "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." - **George Bernard Shaw**
 </marquee>
 
 ---
