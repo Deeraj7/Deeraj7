@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." - **George Bernard Shaw**
+   "Nourish the mind like you would your body. The mind cannot survive on junk food." - **J.R.R. Tolkien**
 </marquee>
 
 ---
