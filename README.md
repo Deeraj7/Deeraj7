@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Nourish the mind like you would your body. The mind cannot survive on junk food." - **J.R.R. Tolkien**
+   "If there's a definition of freedom, I think it's this: living life on your terms." - **Alfred Adler**
 </marquee>
 
 ---
