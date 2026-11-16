@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "If there's a definition of freedom, I think it's this: living life on your terms." - **Alfred Adler**
+   "Fools read fast. Geniuses reread." - **Emily Dickinson**
 </marquee>
 
 ---
