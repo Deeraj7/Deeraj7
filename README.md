@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Fools read fast. Geniuses reread." - **Emily Dickinson**
+   "Never argue with ignorance. It only leads to frustration." - **Kabir**
 </marquee>
 
 ---
