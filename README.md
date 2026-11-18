@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Never argue with ignorance. It only leads to frustration." - **Kabir**
+   "The journey is what brings us happiness not the destination." - **Abraham Lincoln**
 </marquee>
 
 ---
