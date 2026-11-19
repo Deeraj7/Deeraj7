@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The journey is what brings us happiness not the destination." - **Abraham Lincoln**
+   "You are not what you think you are, You are not what others think you are, You are what you think others think you are." - ****
 </marquee>
 
 ---
