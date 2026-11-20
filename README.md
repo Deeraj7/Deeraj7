@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "You are not what you think you are, You are not what others think you are, You are what you think others think you are." - ****
+   "We're responsible for everything that happens to us." - **Dan Millman**
 </marquee>
 
 ---
