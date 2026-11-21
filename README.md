@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "We're responsible for everything that happens to us." - **Dan Millman**
+   "What the caterpillar calls the end of the world, the master calls a butterfly." - **Dalai Lama**
 </marquee>
 
 ---
