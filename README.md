@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What the caterpillar calls the end of the world, the master calls a butterfly." - **Dalai Lama**
+   "Talk sense to a fool and he calls you foolish." - **Unknown**
 </marquee>
 
 ---
