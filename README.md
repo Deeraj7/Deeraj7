@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The Truth is realized in an instant; the Act is practiced step by step." - **Ayn Rand**
+   "The most important battle is one to conquer yourself." - **Maya Angelou**
 </marquee>
 
 ---
