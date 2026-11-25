@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "The most important battle is one to conquer yourself." - **Maya Angelou**
+   "Don't live the same year 75 times and call it a life." - **Maxime Lagace**
 </marquee>
 
 ---
