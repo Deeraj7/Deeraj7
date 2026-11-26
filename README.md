@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't live the same year 75 times and call it a life." - **Maxime Lagace**
+   "Don't give up on your dreams, or your dreams will give up on you." - **Nikola Tesla**
 </marquee>
 
 ---
