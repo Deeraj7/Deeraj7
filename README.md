@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "Don't give up on your dreams, or your dreams will give up on you." - **Nikola Tesla**
+   "What we desire makes us vulnerable." - **Albert Einstein**
 </marquee>
 
 ---
