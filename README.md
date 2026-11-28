@@ -18,7 +18,7 @@
 
 ## ✨ Daily Inspiration
 <marquee behavior="scroll" direction="left" scrollamount="5">
-   "What we desire makes us vulnerable." - **Albert Einstein**
+   "Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time." - **Jim Rohn**
 </marquee>
 
 ---
